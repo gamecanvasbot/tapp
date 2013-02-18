@@ -1,0 +1,15 @@
+ball ball.png 40 20
+normal-wall 240 8 120 60 0
+normal-wall 220 8 170 150 0
+normal-wall 240 8 120 260 0
+normal-wall 220 8 210 370 0
+circ-pit 300 20 20
+circ-pit 300 150 20 
+circ-pit 140 230 20
+circ-pit 20 90 20
+circ-pit 140 340 20
+circ-pit 20 410 20
+circ-pit 295 340 20
+circ-pit 20 290 20
+goal 260 410 20
+
