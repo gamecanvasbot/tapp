@@ -1,1797 +1,6 @@
 {
-	"classes" = {
-		
-	};
-	"rootObject" = "674B868D167F6C4200D301FA";
-	"archiveVersion" = "1";
-	"objectVersion" = "46";
 	"objects" = {
-		"674B870A167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCLabelTTF.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCLabelTTF.h";
-		};
-		"674B86B2167F6C4200D301FA" = {
-			"path" = "Resources/Icon-Small-50.png";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "image.png";
-			"name" = "Icon-Small-50.png";
-		};
-		"674B870F167F6C4300D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B870E167F6C4300D301FA";
-		};
-		"674B8720167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCParticleExamples.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCParticleExamples.h";
-		};
-		"674B87E0167F6C4500D301FA" = {
-			"path" = "libs/TouchJSON/JSON/CJSONScanner.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CJSONScanner.m";
-		};
-		"674B87E8167F6C4500D301FA" = {
-			"path" = "libs/FontLabel/FontLabel.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "FontLabel.m";
-		};
-		"674B86B6167F6C4200D301FA" = {
-			"path" = "Resources/Icon-Small@2x.png";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "image.png";
-			"name" = "Icon-Small@2x.png";
-		};
-		"674B869F167F6C4200D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B869E167F6C4200D301FA";
-		};
-		"674B876A167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/CCTransitionRadial.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCTransitionRadial.m";
-		};
-		"674B86B5167F6C4200D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B86B4167F6C4200D301FA";
-		};
-		"674B8716167F6C4300D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B8715167F6C4300D301FA";
-		};
-		"674B8712167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCMenu.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCMenu.m";
-		};
-		"674B872E167F6C4300D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B872D167F6C4300D301FA";
-		};
-		"674B86EF167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCBlockSupport.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCBlockSupport.m";
-		};
-		"674B868D167F6C4200D301FA" = {
-			"hasScannedForEncodings" = "0";
-			"knownRegions" = (
-				"en"
-			);
-			"isa" = "PBXProject";
-			"attributes" = {
-				"LastUpgradeCheck" = "0450";
-			};
-			"buildConfigurationList" = "674B8690167F6C4200D301FA";
-			"projectRoot" = "";
-			"compatibilityVersion" = "Xcode 3.2";
-			"projectDirPath" = "";
-			"mainGroup" = "674B868B167F6C4200D301FA";
-			"productRefGroup" = "674B8697167F6C4200D301FA";
-			"developmentRegion" = "English";
-			"targets" = (
-				"674B8695167F6C4200D301FA"
-			);
-		};
-		"674B87E6167F6C4500D301FA" = {
-			"isa" = "PBXGroup";
-			"children" = (
-				"674B87E7167F6C4500D301FA",
-				"674B87E8167F6C4500D301FA",
-				"674B87EA167F6C4500D301FA",
-				"674B87EB167F6C4500D301FA",
-				"674B87ED167F6C4500D301FA",
-				"674B87EE167F6C4500D301FA",
-				"674B87F0167F6C4500D301FA",
-				"674B87F1167F6C4500D301FA",
-				"674B87F3167F6C4500D301FA",
-				"674B87F4167F6C4500D301FA",
-				"674B87F5167F6C4500D301FA"
-			);
-			"sourceTree" = "<group>";
-			"name" = "FontLabel";
-		};
-		"674B86EA167F6C4300D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B86E9167F6C4300D301FA";
-		};
-		"674B86A4167F6C4200D301FA" = {
-			"path" = "System/Library/Frameworks/UIKit.framework";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "SDKROOT";
-			"lastKnownFileType" = "wrapper.framework";
-			"name" = "UIKit.framework";
-		};
-		"674B87CB167F6C4500D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B87CA167F6C4500D301FA";
-		};
-		"674B87E5167F6C4500D301FA" = {
-			"path" = "libs/TouchJSON/JSON/JSONRepresentation.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "JSONRepresentation.h";
-		};
-		"674B8758167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/CCTMXLayer.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCTMXLayer.m";
-		};
-		"674B86D2167F6C4200D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B86D1167F6C4200D301FA";
-		};
-		"674B870E167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCLayer.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCLayer.m";
-		};
-		"674B8730167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCRenderTexture.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCRenderTexture.h";
-		};
-		"674B8788167F6C4400D301FA" = {
-			"isa" = "PBXGroup";
-			"children" = (
-				"674B8789167F6C4400D301FA",
-				"674B878A167F6C4400D301FA",
-				"674B878C167F6C4400D301FA",
-				"674B878D167F6C4400D301FA",
-				"674B878F167F6C4400D301FA",
-				"674B8790167F6C4400D301FA",
-				"674B8792167F6C4400D301FA",
-				"674B8793167F6C4400D301FA"
-			);
-			"sourceTree" = "<group>";
-			"name" = "Mac";
-		};
-		"674B8756167F6C4400D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B8755167F6C4400D301FA";
-		};
-		"674B8705167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCLabelAtlas.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCLabelAtlas.m";
-		};
-		"674B86D3167F6C4200D301FA" = {
-			"path" = "libs/cocos2d/CCActionInterval.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCActionInterval.h";
-		};
-		"3DDE04C05C2701300DA4549A" = {
-			"path" = "Resources/iphone/foo.png";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"fileEncoding" = "4";
-			"lastKnownFileType" = "image.png";
-			"name" = "foo.png";
-		};
-		"674B874F167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/CCTextureCache.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCTextureCache.m";
-		};
-		"4E54C8802A9E01300D85549A" = {
-			"path" = "Resources/votemap.png";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"fileEncoding" = "4";
-			"lastKnownFileType" = "image.png";
-			"name" = "votemap.png";
-		};
-		"674B87AC167F6C4500D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B87AB167F6C4500D301FA";
-		};
-		"674B8781167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/Platforms/iOS/ES1Renderer.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "ES1Renderer.h";
-		};
-		"674B87BE167F6C4500D301FA" = {
-			"path" = "libs/CocosDenshion/CocosDenshion.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CocosDenshion.h";
-		};
-		"674B86C3167F6C4200D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B86C2167F6C4200D301FA";
-		};
-		"674B8717167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCMotionStreak.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCMotionStreak.h";
-		};
-		"674B86D1167F6C4200D301FA" = {
-			"path" = "libs/cocos2d/CCActionInstant.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCActionInstant.m";
-		};
-		"674B87BD167F6C4500D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B87BC167F6C4500D301FA";
-		};
-		"674B87F4167F6C4500D301FA" = {
-			"path" = "libs/FontLabel/ZFont.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "ZFont.h";
-		};
-		"674B8770167F6C4400D301FA" = {
-			"isa" = "PBXGroup";
-			"children" = (
-				"674B8771167F6C4400D301FA",
-				"674B8772167F6C4400D301FA",
-				"674B8773167F6C4400D301FA",
-				"674B8788167F6C4400D301FA"
-			);
-			"sourceTree" = "<group>";
-			"name" = "Platforms";
-		};
-		"674B86C7167F6C4200D301FA" = {
-			"path" = "libs/cocos2d/CCActionEase.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCActionEase.h";
-		};
-		"674B8757167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/CCTMXLayer.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCTMXLayer.h";
-		};
-		"674B8711167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCMenu.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCMenu.h";
-		};
-		"674B86E5167F6C4200D301FA" = {
-			"path" = "libs/cocos2d/CCAnimation.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCAnimation.h";
-		};
-		"674B87C7167F6C4500D301FA" = {
-			"path" = "libs/cocoslive/CLScoreServerPost.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CLScoreServerPost.m";
-		};
-		"674B8737167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCScene.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCScene.m";
-		};
-		"674B8776167F6C4400D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B8775167F6C4400D301FA";
-		};
-		"674B86A7167F6C4200D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B86A6167F6C4200D301FA";
-		};
-		"674B8751167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/CCTexturePVR.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCTexturePVR.h";
-		};
-		"674B8763167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/CCTransition.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCTransition.h";
-		};
-		"674B86F6167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCConfiguration.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCConfiguration.m";
-		};
-		"674B8749167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/CCTexture2D.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCTexture2D.m";
-		};
-		"674B87B7167F6C4500D301FA" = {
-			"path" = "libs/CocosDenshion/CDAudioManager.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CDAudioManager.h";
-		};
-		"674B87A5167F6C4500D301FA" = {
-			"path" = "libs/cocos2d/Support/ccUtils.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "ccUtils.h";
-		};
-		"674B87F7167F6C4500D301FA" = {
-			"path" = "libs/LICENSE_FontLabel.txt";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "text";
-			"name" = "LICENSE_FontLabel.txt";
-		};
-		"674B86FD167F6C4300D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B86FC167F6C4300D301FA";
-		};
-		"674B8746167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/CCSpriteFrameCache.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCSpriteFrameCache.m";
-		};
-		"674B86EE167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCBlockSupport.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCBlockSupport.h";
-		};
-		"674B8690167F6C4200D301FA" = {
-			"defaultConfigurationName" = "Release";
-			"isa" = "XCConfigurationList";
-			"defaultConfigurationIsVisible" = "0";
-			"buildConfigurations" = (
-				"674B8806167F6C4500D301FA",
-				"674B8807167F6C4500D301FA"
-			);
-		};
-		"674B86E7167F6C4200D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B86E6167F6C4200D301FA";
-		};
-		"674B874B167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/CCTextureAtlas.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCTextureAtlas.h";
-		};
-		"674B8791167F6C4400D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B8790167F6C4400D301FA";
-		};
-		"674B87CD167F6C4500D301FA" = {
-			"path" = "libs/cocoslive/cocoslive.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "cocoslive.m";
-		};
-		"674B87B0167F6C4500D301FA" = {
-			"path" = "libs/cocos2d/Support/uthash.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "uthash.h";
-		};
-		"674B8735167F6C4300D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B8734167F6C4300D301FA";
-		};
-		"674B86A9167F6C4200D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B86A8167F6C4200D301FA";
-		};
-		"674B8739167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCScheduler.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCScheduler.h";
-		};
-		"674B87EC167F6C4500D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B87EB167F6C4500D301FA";
-		};
-		"674B86A0167F6C4200D301FA" = {
-			"path" = "System/Library/Frameworks/AudioToolbox.framework";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "SDKROOT";
-			"lastKnownFileType" = "wrapper.framework";
-			"name" = "AudioToolbox.framework";
-		};
-		"674B87D0167F6C4500D301FA" = {
-			"isa" = "PBXGroup";
-			"children" = (
-				"674B87D1167F6C4500D301FA",
-				"674B87D2167F6C4500D301FA",
-				"674B87D4167F6C4500D301FA",
-				"674B87DB167F6C4500D301FA"
-			);
-			"sourceTree" = "<group>";
-			"name" = "TouchJSON";
-		};
-		"4406E2705C3501300DA8549A" = {
-			"isa" = "PBXGroup";
-			"children" = (
-				"4407CA105C3501300DA8549A",
-				"F4F839505C3901300DAE549A",
-				"057C29E05C3C01300DAF549A",
-				"58F550705C3C01300DB0549A"
-			);
-			"sourceTree" = "<group>";
-			"name" = "iphone";
-		};
-		"674B8753167F6C4400D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B8752167F6C4400D301FA";
-		};
-		"674B871C167F6C4300D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B871B167F6C4300D301FA";
-		};
-		"674B8747167F6C4400D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B8746167F6C4400D301FA";
-		};
-		"674B87BA167F6C4500D301FA" = {
-			"path" = "libs/CocosDenshion/CDConfig.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CDConfig.h";
-		};
-		"674B86F5167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCConfiguration.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCConfiguration.h";
-		};
-		"674B86AC167F6C4200D301FA" = {
-			"path" = "Resources/Default.png";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "image.png";
-			"name" = "Default.png";
-		};
-		"674B873B167F6C4300D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B873A167F6C4300D301FA";
-		};
-		"674B87B2167F6C4500D301FA" = {
-			"path" = "libs/cocos2d/Support/ZipUtils.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "ZipUtils.h";
-		};
-		"674B87D8167F6C4500D301FA" = {
-			"path" = "libs/TouchJSON/Extensions/NSDictionary_JSONExtensions.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "NSDictionary_JSONExtensions.h";
-		};
-		"674B876F167F6C4400D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B876E167F6C4400D301FA";
-		};
-		"F50F41102A9101300D84549A" = {
-			"path" = "Resources/Untitled.png";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"fileEncoding" = "4";
-			"lastKnownFileType" = "image.png";
-			"name" = "Untitled.png";
-		};
-		"674B86A5167F6C4200D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B86A4167F6C4200D301FA";
-		};
-		"674B86DF167F6C4200D301FA" = {
-			"path" = "libs/cocos2d/CCActionTiledGrid.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCActionTiledGrid.h";
-		};
-		"674B878B167F6C4400D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B878A167F6C4400D301FA";
-		};
-		"674B86E4167F6C4200D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B86E3167F6C4200D301FA";
-		};
-		"674B86C9167F6C4200D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B86C8167F6C4200D301FA";
-		};
-		"674B87D1167F6C4500D301FA" = {
-			"path" = "libs/TouchJSON/CDataScanner.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CDataScanner.h";
-		};
-		"674B8710167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/ccMacros.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "ccMacros.h";
-		};
-		"6E8DAB002A9E01300D86549A" = {
-			"path" = "GameSeat.mm";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"fileEncoding" = "4";
-			"lastKnownFileType" = "sourcecode.cpp.objcpp";
-		};
-		"674B87C5167F6C4500D301FA" = {
-			"isa" = "PBXGroup";
-			"children" = (
-				"674B87C6167F6C4500D301FA",
-				"674B87C7167F6C4500D301FA",
-				"674B87C9167F6C4500D301FA",
-				"674B87CA167F6C4500D301FA",
-				"674B87CC167F6C4500D301FA",
-				"674B87CD167F6C4500D301FA"
-			);
-			"sourceTree" = "<group>";
-			"name" = "cocoslive";
-		};
-		"674B876D167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/cocos2d.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "cocos2d.h";
-		};
-		"674B86B0167F6C4200D301FA" = {
-			"path" = "Resources/Icon-72.png";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "image.png";
-			"name" = "Icon-72.png";
-		};
-		"674B86D6167F6C4200D301FA" = {
-			"path" = "libs/cocos2d/CCActionManager.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCActionManager.h";
-		};
-		"674B8766167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/CCTransitionPageTurn.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCTransitionPageTurn.h";
-		};
-		"674B86DD167F6C4200D301FA" = {
-			"path" = "libs/cocos2d/CCActionProgressTimer.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCActionProgressTimer.m";
-		};
-		"674B8703167F6C4300D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B8702167F6C4300D301FA";
-		};
-		"674B87A0167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/Support/CCProfiling.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCProfiling.h";
-		};
-		"4407CA105C3501300DA8549A" = {
-			"path" = "foo.png";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"fileEncoding" = "4";
-			"lastKnownFileType" = "image.png";
-		};
-		"674B87DC167F6C4500D301FA" = {
-			"path" = "libs/TouchJSON/JSON/CJSONDeserializer.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CJSONDeserializer.h";
-		};
-		"674B8792167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/Platforms/Mac/MacWindow.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "MacWindow.h";
-		};
-		"674B87D5167F6C4500D301FA" = {
-			"path" = "libs/TouchJSON/Extensions/CDataScanner_Extensions.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CDataScanner_Extensions.h";
-		};
-		"674B8736167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCScene.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCScene.h";
-		};
-		"674B877F167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/Platforms/iOS/EAGLView.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "EAGLView.m";
-		};
-		"674B86B3167F6C4200D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B86B2167F6C4200D301FA";
-		};
-		"674B87A9167F6C4500D301FA" = {
-			"path" = "libs/cocos2d/Support/OpenGL_Internal.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "OpenGL_Internal.h";
-		};
-		"674B8771167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/Platforms/CCGL.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCGL.h";
-		};
-		"674B87F8167F6C4500D301FA" = {
-			"isa" = "PBXGroup";
-			"children" = (
-				"674B87F9167F6C4500D301FA",
-				"674B87FA167F6C4500D301FA"
-			);
-			"sourceTree" = "<group>";
-			"name" = "Supporting Files";
-		};
-		"674B87E1167F6C4500D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B87E0167F6C4500D301FA";
-		};
-		"674B86AB167F6C4200D301FA" = {
-			"isa" = "PBXGroup";
-			"children" = (
-				"677322B8167F8AF60031088A",
-				"677322B6167F8A940031088A",
-				"677322B4167F8A3A0031088A",
-				"677322B1167F7BE10031088A",
-				"674B86AC167F6C4200D301FA",
-				"674B86AE167F6C4200D301FA",
-				"674B86B0167F6C4200D301FA",
-				"674B86B2167F6C4200D301FA",
-				"674B86B4167F6C4200D301FA",
-				"674B86B6167F6C4200D301FA",
-				"674B86B8167F6C4200D301FA",
-				"674B86BA167F6C4200D301FA",
-				"674B86BC167F6C4200D301FA",
-				"674B86BD167F6C4200D301FA",
-				"F50F41102A9101300D84549A",
-				"4E54C8802A9E01300D85549A",
-				"FD4E5F002B3201300D8F549A",
-				"3DDE04C05C2701300DA4549A",
-				"CA6230805C2701300DA6549A",
-				"CAD256305C2701300DA7549A",
-				"4406E2705C3501300DA8549A"
-			);
-			"sourceTree" = "<group>";
-			"name" = "Resources";
-		};
-		"674B86CF167F6C4200D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B86CE167F6C4200D301FA";
-		};
-		"674B87F5167F6C4500D301FA" = {
-			"path" = "libs/FontLabel/ZFont.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "ZFont.m";
-		};
-		"677322B9167F8AF60031088A" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "677322B8167F8AF60031088A";
-		};
-		"677322B2167F7BE10031088A" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "677322B1167F7BE10031088A";
-		};
-		"674B87ED167F6C4500D301FA" = {
-			"path" = "libs/FontLabel/FontManager.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "FontManager.h";
-		};
-		"674B87DD167F6C4500D301FA" = {
-			"path" = "libs/TouchJSON/JSON/CJSONDeserializer.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CJSONDeserializer.m";
-		};
-		"674B86FC167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCDrawingPrimitives.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCDrawingPrimitives.m";
-		};
-		"674B8767167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/CCTransitionPageTurn.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCTransitionPageTurn.m";
-		};
-		"674B86D5167F6C4200D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B86D4167F6C4200D301FA";
-		};
-		"674B8794167F6C4400D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B8793167F6C4400D301FA";
-		};
-		"674B86FE167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCGrabber.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCGrabber.h";
-		};
-		"674B86A8167F6C4200D301FA" = {
-			"path" = "System/Library/Frameworks/CoreGraphics.framework";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "SDKROOT";
-			"lastKnownFileType" = "wrapper.framework";
-			"name" = "CoreGraphics.framework";
-		};
-		"674B87A2167F6C4400D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B87A1167F6C4400D301FA";
-		};
-		"674B87C1167F6C4500D301FA" = {
-			"path" = "libs/CocosDenshion/SimpleAudioEngine.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "SimpleAudioEngine.h";
-		};
-		"677322B1167F7BE10031088A" = {
-			"path" = "bounce.mp3";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "audio.mp3";
-		};
-		"674B878D167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/Platforms/Mac/CCEventDispatcher.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCEventDispatcher.m";
-		};
-		"674B869A167F6C4200D301FA" = {
-			"path" = "System/Library/Frameworks/QuartzCore.framework";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "SDKROOT";
-			"lastKnownFileType" = "wrapper.framework";
-			"name" = "QuartzCore.framework";
-		};
-		"674B877C167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/Platforms/iOS/CCTouchHandler.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCTouchHandler.m";
-		};
-		"674B86FB167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCDrawingPrimitives.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCDrawingPrimitives.h";
-		};
-		"674B8799167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/Support/CCArray.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCArray.h";
-		};
-		"674B87A3167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/Support/ccUtils.c";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.c";
-			"name" = "ccUtils.c";
-		};
-		"674B878F167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/Platforms/Mac/MacGLView.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "MacGLView.h";
-		};
-		"674B875B167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/CCTMXObjectGroup.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCTMXObjectGroup.m";
-		};
-		"674B875D167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/CCTMXTiledMap.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCTMXTiledMap.h";
-		};
-		"674B87A8167F6C4500D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B87A7167F6C4500D301FA";
-		};
-		"674B86B7167F6C4200D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B86B6167F6C4200D301FA";
-		};
-		"674B8713167F6C4300D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B8712167F6C4300D301FA";
-		};
-		"674B86C1167F6C4200D301FA" = {
-			"path" = "libs/cocos2d/CCAction.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCAction.h";
-		};
-		"674B87FF167F6C4500D301FA" = {
-			"path" = "RootViewController.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-		};
-		"674B8780167F6C4400D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B877F167F6C4400D301FA";
-		};
-		"674B8733167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCRibbon.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCRibbon.h";
-		};
-		"674B871E167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCParallaxNode.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCParallaxNode.m";
-		};
-		"674B86D4167F6C4200D301FA" = {
-			"path" = "libs/cocos2d/CCActionInterval.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCActionInterval.m";
-		};
-		"674B8769167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/CCTransitionRadial.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCTransitionRadial.h";
-		};
-		"674B871A167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCNode.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCNode.h";
-		};
-		"674B87E7167F6C4500D301FA" = {
-			"path" = "libs/FontLabel/FontLabel.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "FontLabel.h";
-		};
-		"674B87A6167F6C4500D301FA" = {
-			"path" = "libs/cocos2d/Support/CGPointExtension.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CGPointExtension.h";
-		};
-		"674B87CA167F6C4500D301FA" = {
-			"path" = "libs/cocoslive/CLScoreServerRequest.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CLScoreServerRequest.m";
-		};
-		"674B87AB167F6C4500D301FA" = {
-			"path" = "libs/cocos2d/Support/TGAlib.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "TGAlib.m";
-		};
-		"674B8772167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/Platforms/CCNS.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCNS.h";
-		};
-		"674B8707167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCLabelBMFont.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCLabelBMFont.h";
-		};
-		"674B8798167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/Support/base64.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "base64.h";
-		};
-		"674B8785167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/Platforms/iOS/glu.c";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.c";
-			"name" = "glu.c";
-		};
-		"674B87CF167F6C4500D301FA" = {
-			"path" = "libs/LICENSE_TouchJSON.txt";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "text";
-			"name" = "LICENSE_TouchJSON.txt";
-		};
-		"674B87B1167F6C4500D301FA" = {
-			"path" = "libs/cocos2d/Support/utlist.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "utlist.h";
-		};
-		"674B87D7167F6C4500D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B87D6167F6C4500D301FA";
-		};
-		"674B86D8167F6C4200D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B86D7167F6C4200D301FA";
-		};
-		"674B87EA167F6C4500D301FA" = {
-			"path" = "libs/FontLabel/FontLabelStringDrawing.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "FontLabelStringDrawing.h";
-		};
-		"674B87EE167F6C4500D301FA" = {
-			"path" = "libs/FontLabel/FontManager.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "FontManager.m";
-		};
-		"674B874D167F6C4400D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B874C167F6C4400D301FA";
-		};
-		"674B8734167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCRibbon.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCRibbon.m";
-		};
-		"674B87A1167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/Support/CCProfiling.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCProfiling.m";
-		};
-		"674B879B167F6C4400D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B879A167F6C4400D301FA";
-		};
-		"674B86BE167F6C4200D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B86BD167F6C4200D301FA";
-		};
-		"674B86CB167F6C4200D301FA" = {
-			"path" = "libs/cocos2d/CCActionGrid.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCActionGrid.m";
-		};
-		"674B87AE167F6C4500D301FA" = {
-			"path" = "libs/cocos2d/Support/TransformUtils.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "TransformUtils.m";
-		};
-		"677322B6167F8A940031088A" = {
-			"path" = "bingo_bg-hd.jpg";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "image.jpeg";
-		};
-		"674B8801167F6C4500D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B8800167F6C4500D301FA";
-		};
-		"674B86C2167F6C4200D301FA" = {
-			"path" = "libs/cocos2d/CCAction.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCAction.m";
-		};
-		"674B87A4167F6C4500D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B87A3167F6C4400D301FA";
-		};
-		"674B86A1167F6C4200D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B86A0167F6C4200D301FA";
-		};
-		"674B87EF167F6C4500D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B87EE167F6C4500D301FA";
-		};
-		"674B8783167F6C4400D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B8782167F6C4400D301FA";
-		};
-		"674B8764167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/CCTransition.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCTransition.m";
-		};
-		"674B876B167F6C4400D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B876A167F6C4400D301FA";
-		};
-		"674B8726167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCParticleSystemPoint.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCParticleSystemPoint.h";
-		};
-		"674B8796167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/Support/base64.c";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.c";
-			"name" = "base64.c";
-		};
-		"674B86AA167F6C4200D301FA" = {
-			"path" = "TApp";
-			"isa" = "PBXGroup";
-			"children" = (
-				"674B87FC167F6C4500D301FA",
-				"674B87FD167F6C4500D301FA",
-				"674B87FF167F6C4500D301FA",
-				"674B8800167F6C4500D301FA",
-				"674B8802167F6C4500D301FA",
-				"674B8803167F6C4500D301FA",
-				"674B8805167F6C4500D301FA",
-				"674B86AB167F6C4200D301FA",
-				"674B86BF167F6C4200D301FA",
-				"674B87F8167F6C4500D301FA",
-				"06C315102A9001300D82549A",
-				"6E8DAB002A9E01300D86549A"
-			);
-			"sourceTree" = "<group>";
-		};
-		"674B87F3167F6C4500D301FA" = {
-			"path" = "libs/FontLabel/ZAttributedStringPrivate.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "ZAttributedStringPrivate.h";
-		};
-		"674B8805167F6C4500D301FA" = {
-			"path" = "GameConfig.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-		};
-		"674B8741167F6C4300D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B8740167F6C4300D301FA";
-		};
-		"674B86F0167F6C4300D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B86EF167F6C4300D301FA";
-		};
-		"674B86B9167F6C4200D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B86B8167F6C4200D301FA";
-		};
-		"674B8731167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCRenderTexture.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCRenderTexture.m";
-		};
-		"674B8787167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/Platforms/iOS/glu.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "glu.h";
-		};
-		"674B86A6167F6C4200D301FA" = {
-			"path" = "System/Library/Frameworks/Foundation.framework";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "SDKROOT";
-			"lastKnownFileType" = "wrapper.framework";
-			"name" = "Foundation.framework";
-		};
-		"674B87C2167F6C4500D301FA" = {
-			"path" = "libs/CocosDenshion/SimpleAudioEngine.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "SimpleAudioEngine.m";
-		};
-		"674B87D9167F6C4500D301FA" = {
-			"path" = "libs/TouchJSON/Extensions/NSDictionary_JSONExtensions.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "NSDictionary_JSONExtensions.m";
-		};
-		"674B8699167F6C4200D301FA" = {
-			"isa" = "PBXGroup";
-			"children" = (
-				"674B869A167F6C4200D301FA",
-				"674B869C167F6C4200D301FA",
-				"674B869E167F6C4200D301FA",
-				"674B86A0167F6C4200D301FA",
-				"674B86A2167F6C4200D301FA",
-				"674B86A4167F6C4200D301FA",
-				"674B86A6167F6C4200D301FA",
-				"674B86A8167F6C4200D301FA"
-			);
-			"sourceTree" = "<group>";
-			"name" = "Frameworks";
-		};
-		"674B86A2167F6C4200D301FA" = {
-			"path" = "System/Library/Frameworks/AVFoundation.framework";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "SDKROOT";
-			"lastKnownFileType" = "wrapper.framework";
-			"name" = "AVFoundation.framework";
-		};
-		"674B8754167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/CCTileMapAtlas.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCTileMapAtlas.h";
-		};
-		"674B86F4167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/ccConfig.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "ccConfig.h";
-		};
-		"674B86BA167F6C4200D301FA" = {
-			"path" = "Resources/Icon@2x.png";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "image.png";
-			"name" = "Icon@2x.png";
-		};
-		"674B8725167F6C4300D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B8724167F6C4300D301FA";
-		};
-		"674B879E167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/Support/CCFileUtils.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCFileUtils.m";
-		};
-		"674B8755167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/CCTileMapAtlas.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCTileMapAtlas.m";
-		};
-		"674B8700167F6C4300D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B86FF167F6C4300D301FA";
-		};
-		"674B878C167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/Platforms/Mac/CCEventDispatcher.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCEventDispatcher.h";
-		};
-		"674B8704167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCLabelAtlas.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCLabelAtlas.h";
-		};
-		"674B87C0167F6C4500D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B87BF167F6C4500D301FA";
-		};
-		"674B87D3167F6C4500D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B87D2167F6C4500D301FA";
-		};
-		"06C315102A9001300D82549A" = {
-			"path" = "GameSeat.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"fileEncoding" = "4";
-			"lastKnownFileType" = "sourcecode.c.h";
-		};
-		"674B870C167F6C4300D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B870B167F6C4300D301FA";
-		};
-		"674B8809167F6C4500D301FA" = {
-			"isa" = "XCBuildConfiguration";
-			"buildSettings" = {
-				"GCC_PREFIX_HEADER" = "TApp/Prefix.pch";
-				"GCC_DYNAMIC_NO_PIC" = "NO";
-				"WRAPPER_EXTENSION" = "app";
-				"PRODUCT_NAME" = "$(TARGET_NAME)";
-				"INFOPLIST_FILE" = "TApp/Resources/Info.plist";
-				"COPY_PHASE_STRIP" = "NO";
-				"GCC_PRECOMPILE_PREFIX_HEADER" = "YES";
-				"ALWAYS_SEARCH_USER_PATHS" = "NO";
-				"OTHER_LDFLAGS" = "-lz";
-				"GCC_THUMB_SUPPORT[arch=armv6]" = "";
-			};
-			"name" = "Debug";
-		};
-		"677322B5167F8A3A0031088A" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "677322B4167F8A3A0031088A";
-		};
-		"674B87F6167F6C4500D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B87F5167F6C4500D301FA";
-		};
-		"674B87F1167F6C4500D301FA" = {
-			"path" = "libs/FontLabel/ZAttributedString.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "ZAttributedString.m";
-		};
-		"674B877E167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/Platforms/iOS/EAGLView.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "EAGLView.h";
-		};
-		"674B87C8167F6C4500D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B87C7167F6C4500D301FA";
-		};
-		"674B87BC167F6C4500D301FA" = {
-			"path" = "libs/CocosDenshion/CDOpenALSupport.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CDOpenALSupport.m";
-		};
-		"674B878A167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/Platforms/Mac/CCDirectorMac.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCDirectorMac.m";
-		};
-		"674B875C167F6C4400D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B875B167F6C4400D301FA";
-		};
-		"674B87B8167F6C4500D301FA" = {
-			"path" = "libs/CocosDenshion/CDAudioManager.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CDAudioManager.m";
-		};
-		"674B87EB167F6C4500D301FA" = {
-			"path" = "libs/FontLabel/FontLabelStringDrawing.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "FontLabelStringDrawing.m";
-		};
-		"674B87DE167F6C4500D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B87DD167F6C4500D301FA";
-		};
-		"674B8793167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/Platforms/Mac/MacWindow.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "MacWindow.m";
-		};
-		"674B86E2167F6C4200D301FA" = {
-			"path" = "libs/cocos2d/CCActionTween.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCActionTween.h";
-		};
-		"674B8706167F6C4300D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B8705167F6C4300D301FA";
-		};
-		"674B86EC167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCAtlasNode.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCAtlasNode.m";
-		};
-		"674B8800167F6C4500D301FA" = {
-			"path" = "RootViewController.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-		};
-		"674B880A167F6C4500D301FA" = {
-			"isa" = "XCBuildConfiguration";
-			"buildSettings" = {
-				"GCC_PREFIX_HEADER" = "TApp/Prefix.pch";
-				"PRODUCT_NAME" = "$(TARGET_NAME)";
-				"WRAPPER_EXTENSION" = "app";
-				"INFOPLIST_FILE" = "TApp/Resources/Info.plist";
-				"VALIDATE_PRODUCT" = "YES";
-				"COPY_PHASE_STRIP" = "YES";
-				"GCC_PRECOMPILE_PREFIX_HEADER" = "YES";
-				"ALWAYS_SEARCH_USER_PATHS" = "NO";
-				"OTHER_LDFLAGS" = "-lz";
-				"GCC_THUMB_SUPPORT[arch=armv6]" = "";
-			};
-			"name" = "Release";
-		};
-		"674B869E167F6C4200D301FA" = {
-			"path" = "System/Library/Frameworks/OpenAL.framework";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "SDKROOT";
-			"lastKnownFileType" = "wrapper.framework";
-			"name" = "OpenAL.framework";
-		};
-		"FD4E5F002B3201300D8F549A" = {
-			"path" = "blacktocat.png";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"fileEncoding" = "4";
-			"lastKnownFileType" = "image.png";
-		};
-		"674B878E167F6C4400D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B878D167F6C4400D301FA";
-		};
-		"674B8761167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/CCTMXXMLParser.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCTMXXMLParser.m";
-		};
-		"674B86E9167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCAnimationCache.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCAnimationCache.m";
-		};
-		"674B869D167F6C4200D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B869C167F6C4200D301FA";
-		};
-		"674B8697167F6C4200D301FA" = {
-			"isa" = "PBXGroup";
-			"children" = (
-				"674B8696167F6C4200D301FA"
-			);
-			"sourceTree" = "<group>";
-			"name" = "Products";
-		};
-		"674B86F2167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCCamera.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCCamera.m";
-		};
-		"674B869B167F6C4200D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B869A167F6C4200D301FA";
-		};
-		"674B8765167F6C4400D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B8764167F6C4400D301FA";
-		};
-		"674B873F167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCSpriteBatchNode.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCSpriteBatchNode.h";
-		};
-		"674B87C6167F6C4500D301FA" = {
-			"path" = "libs/cocoslive/CLScoreServerPost.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CLScoreServerPost.h";
-		};
-		"674B87B6167F6C4500D301FA" = {
-			"isa" = "PBXGroup";
-			"children" = (
-				"674B87B7167F6C4500D301FA",
-				"674B87B8167F6C4500D301FA",
-				"674B87BA167F6C4500D301FA",
-				"674B87BB167F6C4500D301FA",
-				"674B87BC167F6C4500D301FA",
-				"674B87BE167F6C4500D301FA",
-				"674B87BF167F6C4500D301FA",
-				"674B87C1167F6C4500D301FA",
-				"674B87C2167F6C4500D301FA"
-			);
-			"sourceTree" = "<group>";
-			"name" = "CocosDenshion";
-		};
-		"674B875E167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/CCTMXTiledMap.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCTMXTiledMap.m";
-		};
-		"674B86F1167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCCamera.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCCamera.h";
-		};
-		"674B86BF167F6C4200D301FA" = {
-			"isa" = "PBXGroup";
-			"children" = (
-				"674B87B5167F6C4500D301FA",
-				"674B87C4167F6C4500D301FA",
-				"674B87CF167F6C4500D301FA",
-				"674B87F7167F6C4500D301FA",
-				"674B86C0167F6C4200D301FA",
-				"674B87B6167F6C4500D301FA",
-				"674B87C5167F6C4500D301FA",
-				"674B87D0167F6C4500D301FA",
-				"674B87E6167F6C4500D301FA"
-			);
-			"sourceTree" = "<group>";
-			"name" = "libs";
-		};
-		"674B86AE167F6C4200D301FA" = {
-			"path" = "Resources/fps_images.png";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "image.png";
-			"name" = "fps_images.png";
-		};
-		"674B872C167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCProgressTimer.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCProgressTimer.h";
-		};
-		"674B874E167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/CCTextureCache.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCTextureCache.h";
-		};
-		"CAD256305C2701300DA7549A" = {
-			"path" = "Resources/iphone/foo_2.png";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"fileEncoding" = "4";
-			"lastKnownFileType" = "image.png";
-			"name" = "foo_2.png";
-		};
-		"674B87E4167F6C4500D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B87E3167F6C4500D301FA";
-		};
-		"674B8779167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/Platforms/iOS/CCTouchDispatcher.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCTouchDispatcher.m";
-		};
-		"674B877A167F6C4400D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B8779167F6C4400D301FA";
-		};
-		"674B87FA167F6C4500D301FA" = {
-			"path" = "main.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-		};
-		"674B87FC167F6C4500D301FA" = {
-			"path" = "AppDelegate.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-		};
-		"674B875F167F6C4400D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B875E167F6C4400D301FA";
-		};
-		"674B8724167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCParticleSystem.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCParticleSystem.m";
-		};
-		"674B873A167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCScheduler.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCScheduler.m";
-		};
-		"674B879F167F6C4400D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B879E167F6C4400D301FA";
-		};
-		"674B87D4167F6C4500D301FA" = {
-			"isa" = "PBXGroup";
-			"children" = (
-				"674B87D5167F6C4500D301FA",
-				"674B87D6167F6C4500D301FA",
-				"674B87D8167F6C4500D301FA",
-				"674B87D9167F6C4500D301FA"
-			);
-			"sourceTree" = "<group>";
-			"name" = "Extensions";
-		};
-		"674B86E3167F6C4200D301FA" = {
-			"path" = "libs/cocos2d/CCActionTween.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCActionTween.m";
-		};
-		"674B877B167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/Platforms/iOS/CCTouchHandler.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCTouchHandler.h";
-		};
-		"057C29E05C3C01300DAF549A" = {
-			"path" = "Resources/iphone/bar.png";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"fileEncoding" = "4";
-			"lastKnownFileType" = "image.png";
-			"name" = "bar.png";
-		};
-		"674B871B167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCNode.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCNode.m";
-		};
-		"674B876C167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/ccTypes.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "ccTypes.h";
-		};
-		"674B8727167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCParticleSystemPoint.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCParticleSystemPoint.m";
-		};
-		"674B86CC167F6C4200D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B86CB167F6C4200D301FA";
-		};
-		"674B86CD167F6C4200D301FA" = {
-			"path" = "libs/cocos2d/CCActionGrid3D.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCActionGrid3D.h";
-		};
-		"674B873D167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCSprite.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCSprite.m";
-		};
-		"CA6230805C2701300DA6549A" = {
-			"path" = "Resources/iphone/foo_1.png";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"fileEncoding" = "4";
-			"lastKnownFileType" = "image.png";
-			"name" = "foo_1.png";
-		};
-		"674B877D167F6C4400D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B877C167F6C4400D301FA";
-		};
-		"674B8807167F6C4500D301FA" = {
-			"isa" = "XCBuildConfiguration";
-			"buildSettings" = {
-				"GCC_WARN_ABOUT_RETURN_TYPE" = "YES";
-				"GCC_PREPROCESSOR_DEFINITIONS" = "NDEBUG";
-				"GCC_C_LANGUAGE_STANDARD" = "gnu99";
-				"OTHER_CFLAGS" = "-DNS_BLOCK_ASSERTIONS=1";
-				"ARCHS" = "$(ARCHS_STANDARD_32_BIT)";
-				"SDKROOT" = "iphoneos";
-				"GCC_WARN_UNUSED_VARIABLE" = "YES";
-				"IPHONEOS_DEPLOYMENT_TARGET" = "6.0";
-				"GCC_VERSION" = "com.apple.compilers.llvmgcc42";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-			};
-			"name" = "Release";
-		};
-		"674B86A3167F6C4200D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B86A2167F6C4200D301FA";
-		};
-		"674B879C167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/Support/ccCArray.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "ccCArray.h";
-		};
-		"674B87C4167F6C4500D301FA" = {
-			"path" = "libs/LICENSE_CocosDenshion.txt";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "text";
-			"name" = "LICENSE_CocosDenshion.txt";
-		};
-		"674B8768167F6C4400D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B8767167F6C4400D301FA";
-		};
-		"674B8760167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/CCTMXXMLParser.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCTMXXMLParser.h";
-		};
 		"674B8693167F6C4200D301FA" = {
-			"isa" = "PBXFrameworksBuildPhase";
-			"runOnlyForDeploymentPostprocessing" = "0";
 			"files" = (
 				"674B869B167F6C4200D301FA",
 				"674B869D167F6C4200D301FA",
@@ -1803,51 +12,135 @@
 				"674B86A9167F6C4200D301FA"
 			);
 			"buildActionMask" = "2147483647";
+			"isa" = "PBXFrameworksBuildPhase";
+			"runOnlyForDeploymentPostprocessing" = "0";
 		};
-		"674B86E6167F6C4200D301FA" = {
-			"path" = "libs/cocos2d/CCAnimation.m";
-			"isa" = "PBXFileReference";
+		"674B87B5167F6C4500D301FA" = {
 			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCAnimation.m";
-		};
-		"674B8804167F6C4500D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B8803167F6C4500D301FA";
-		};
-		"674B86B4167F6C4200D301FA" = {
-			"path" = "Resources/Icon-Small.png";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "image.png";
-			"name" = "Icon-Small.png";
-		};
-		"674B86F3167F6C4300D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B86F2167F6C4300D301FA";
-		};
-		"674B86DC167F6C4200D301FA" = {
-			"path" = "libs/cocos2d/CCActionProgressTimer.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCActionProgressTimer.h";
-		};
-		"674B86FF167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCGrabber.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCGrabber.m";
-		};
-		"677322B4167F8A3A0031088A" = {
-			"path" = "fof-ipad.fnt";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"fileEncoding" = "4";
+			"path" = "libs/LICENSE_cocos2d.txt";
+			"name" = "LICENSE_cocos2d.txt";
 			"lastKnownFileType" = "text";
+			"isa" = "PBXFileReference";
+		};
+		"674B8720167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCParticleExamples.h";
+			"name" = "CCParticleExamples.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B8719167F6C4300D301FA" = {
+			"fileRef" = "674B8718167F6C4300D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B8711167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCMenu.h";
+			"name" = "CCMenu.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B86A1167F6C4200D301FA" = {
+			"fileRef" = "674B86A0167F6C4200D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B86C9167F6C4200D301FA" = {
+			"fileRef" = "674B86C8167F6C4200D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B86FD167F6C4300D301FA" = {
+			"fileRef" = "674B86FC167F6C4300D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B86FE167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCGrabber.h";
+			"name" = "CCGrabber.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B878E167F6C4400D301FA" = {
+			"fileRef" = "674B878D167F6C4400D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B8735167F6C4300D301FA" = {
+			"fileRef" = "674B8734167F6C4300D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B8708167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCLabelBMFont.m";
+			"name" = "CCLabelBMFont.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B8694167F6C4200D301FA" = {
+			"files" = (
+				"674B86AD167F6C4200D301FA",
+				"674B86AF167F6C4200D301FA",
+				"674B86B1167F6C4200D301FA",
+				"674B86B3167F6C4200D301FA",
+				"674B86B5167F6C4200D301FA",
+				"674B86B7167F6C4200D301FA",
+				"674B86B9167F6C4200D301FA",
+				"674B86BB167F6C4200D301FA",
+				"674B86BE167F6C4200D301FA",
+				"677322B2167F7BE10031088A",
+				"677322B5167F8A3A0031088A",
+				"677322B7167F8A940031088A",
+				"677322B9167F8AF60031088A"
+			);
+			"buildActionMask" = "2147483647";
+			"isa" = "PBXResourcesBuildPhase";
+			"runOnlyForDeploymentPostprocessing" = "0";
+		};
+		"674B87A4167F6C4500D301FA" = {
+			"fileRef" = "674B87A3167F6C4400D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B87DC167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/TouchJSON/JSON/CJSONDeserializer.h";
+			"name" = "CJSONDeserializer.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B8741167F6C4300D301FA" = {
+			"fileRef" = "674B8740167F6C4300D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"6E8DAB002A9E01300D86549A" = {
+			"fileEncoding" = "4";
+			"sourceTree" = "<group>";
+			"path" = "GameSeat.mm";
+			"lastKnownFileType" = "sourcecode.cpp.objcpp";
+			"isa" = "PBXFileReference";
+		};
+		"674B879E167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/Support/CCFileUtils.m";
+			"name" = "CCFileUtils.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B8728167F6C4300D301FA" = {
+			"fileRef" = "674B8727167F6C4300D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B8801167F6C4500D301FA" = {
+			"fileRef" = "674B8800167F6C4500D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B86DD167F6C4200D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCActionProgressTimer.m";
+			"name" = "CCActionProgressTimer.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
 		};
 		"674B86C0167F6C4200D301FA" = {
+			"sourceTree" = "<group>";
+			"name" = "cocos2d";
 			"isa" = "PBXGroup";
 			"children" = (
 				"674B86C1167F6C4200D301FA",
@@ -1971,59 +264,230 @@
 				"674B8770167F6C4400D301FA",
 				"674B8795167F6C4400D301FA"
 			);
-			"sourceTree" = "<group>";
-			"name" = "cocos2d";
 		};
-		"674B87C9167F6C4500D301FA" = {
-			"path" = "libs/cocoslive/CLScoreServerRequest.h";
+		"674B86A4167F6C4200D301FA" = {
+			"sourceTree" = "SDKROOT";
+			"path" = "System/Library/Frameworks/UIKit.framework";
+			"name" = "UIKit.framework";
+			"lastKnownFileType" = "wrapper.framework";
 			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CLScoreServerRequest.h";
 		};
-		"674B8775167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/Platforms/iOS/CCDirectorIOS.m";
-			"isa" = "PBXFileReference";
+		"674B8752167F6C4400D301FA" = {
 			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCTexturePVR.m";
+			"name" = "CCTexturePVR.m";
 			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCDirectorIOS.m";
-		};
-		"674B87DF167F6C4500D301FA" = {
-			"path" = "libs/TouchJSON/JSON/CJSONScanner.h";
 			"isa" = "PBXFileReference";
+		};
+		"674B86E3167F6C4200D301FA" = {
 			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCActionTween.m";
+			"name" = "CCActionTween.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B8690167F6C4200D301FA" = {
+			"defaultConfigurationName" = "Release";
+			"buildConfigurations" = (
+				"674B8806167F6C4500D301FA",
+				"674B8807167F6C4500D301FA"
+			);
+			"defaultConfigurationIsVisible" = "0";
+			"isa" = "XCConfigurationList";
+		};
+		"674B86E4167F6C4200D301FA" = {
+			"fileRef" = "674B86E3167F6C4200D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B8802167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "HelloWorldLayer.h";
 			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CJSONScanner.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B87B7167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/CocosDenshion/CDAudioManager.h";
+			"name" = "CDAudioManager.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B87A9167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/Support/OpenGL_Internal.h";
+			"name" = "OpenGL_Internal.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B87BA167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/CocosDenshion/CDConfig.h";
+			"name" = "CDConfig.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
 		};
 		"674B872A167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
 			"path" = "libs/cocos2d/CCParticleSystemQuad.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
 			"name" = "CCParticleSystemQuad.m";
-		};
-		"674B87B3167F6C4500D301FA" = {
-			"path" = "libs/cocos2d/Support/ZipUtils.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
 			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "ZipUtils.m";
-		};
-		"674B8696167F6C4200D301FA" = {
-			"path" = "TApp.app";
 			"isa" = "PBXFileReference";
-			"sourceTree" = "BUILT_PRODUCTS_DIR";
-			"explicitFileType" = "wrapper.application";
-			"includeInIndex" = "0";
 		};
-		"674B87BB167F6C4500D301FA" = {
-			"path" = "libs/CocosDenshion/CDOpenALSupport.h";
-			"isa" = "PBXFileReference";
+		"674B8776167F6C4400D301FA" = {
+			"fileRef" = "674B8775167F6C4400D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B86EC167F6C4300D301FA" = {
 			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCAtlasNode.m";
+			"name" = "CCAtlasNode.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B8777167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/Platforms/iOS/CCTouchDelegateProtocol.h";
+			"name" = "CCTouchDelegateProtocol.h";
 			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CDOpenALSupport.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B86C3167F6C4200D301FA" = {
+			"fileRef" = "674B86C2167F6C4200D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B8790167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/Platforms/Mac/MacGLView.m";
+			"name" = "MacGLView.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B874B167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCTextureAtlas.h";
+			"name" = "CCTextureAtlas.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B87B0167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/Support/uthash.h";
+			"name" = "uthash.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B86F7167F6C4300D301FA" = {
+			"fileRef" = "674B86F6167F6C4300D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B875A167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCTMXObjectGroup.h";
+			"name" = "CCTMXObjectGroup.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B87EE167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/FontLabel/FontManager.m";
+			"name" = "FontManager.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B86F5167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCConfiguration.h";
+			"name" = "CCConfiguration.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B86BB167F6C4200D301FA" = {
+			"fileRef" = "674B86BA167F6C4200D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B87D5167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/TouchJSON/Extensions/CDataScanner_Extensions.h";
+			"name" = "CDataScanner_Extensions.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B86CA167F6C4200D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCActionGrid.h";
+			"name" = "CCActionGrid.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"3DDE04C05C2701300DA4549A" = {
+			"fileEncoding" = "4";
+			"sourceTree" = "<group>";
+			"path" = "Resources/iphone/foo.png";
+			"name" = "foo.png";
+			"lastKnownFileType" = "image.png";
+			"isa" = "PBXFileReference";
+		};
+		"674B8730167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCRenderTexture.h";
+			"name" = "CCRenderTexture.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B87E5167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/TouchJSON/JSON/JSONRepresentation.h";
+			"name" = "JSONRepresentation.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B86EA167F6C4300D301FA" = {
+			"fileRef" = "674B86E9167F6C4300D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B873D167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCSprite.m";
+			"name" = "CCSprite.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B86E9167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCAnimationCache.m";
+			"name" = "CCAnimationCache.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B8788167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"name" = "Mac";
+			"isa" = "PBXGroup";
+			"children" = (
+				"674B8789167F6C4400D301FA",
+				"674B878A167F6C4400D301FA",
+				"674B878C167F6C4400D301FA",
+				"674B878D167F6C4400D301FA",
+				"674B878F167F6C4400D301FA",
+				"674B8790167F6C4400D301FA",
+				"674B8792167F6C4400D301FA",
+				"674B8793167F6C4400D301FA"
+			);
+		};
+		"674B8744167F6C4300D301FA" = {
+			"fileRef" = "674B8743167F6C4300D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B87A1167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/Support/CCProfiling.m";
+			"name" = "CCProfiling.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
 		};
 		"674B8773167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"name" = "iOS";
 			"isa" = "PBXGroup";
 			"children" = (
 				"674B8774167F6C4400D301FA",
@@ -2041,26 +505,1076 @@
 				"674B8785167F6C4400D301FA",
 				"674B8787167F6C4400D301FA"
 			);
+		};
+		"674B8764167F6C4400D301FA" = {
 			"sourceTree" = "<group>";
-			"name" = "iOS";
-		};
-		"677322B7167F8A940031088A" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "677322B6167F8A940031088A";
-		};
-		"674B8738167F6C4300D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B8737167F6C4300D301FA";
-		};
-		"674B8802167F6C4500D301FA" = {
-			"path" = "HelloWorldLayer.h";
+			"path" = "libs/cocos2d/CCTransition.m";
+			"name" = "CCTransition.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
 			"isa" = "PBXFileReference";
+		};
+		"674B86F1167F6C4300D301FA" = {
 			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCCamera.h";
+			"name" = "CCCamera.h";
 			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B8792167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/Platforms/Mac/MacWindow.h";
+			"name" = "MacWindow.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"677322B5167F8A3A0031088A" = {
+			"fileRef" = "677322B4167F8A3A0031088A";
+			"isa" = "PBXBuildFile";
+		};
+		"674B8797167F6C4400D301FA" = {
+			"fileRef" = "674B8796167F6C4400D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B8736167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCScene.h";
+			"name" = "CCScene.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B86DC167F6C4200D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCActionProgressTimer.h";
+			"name" = "CCActionProgressTimer.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B86B8167F6C4200D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "Resources/Icon.png";
+			"name" = "Icon.png";
+			"lastKnownFileType" = "image.png";
+			"isa" = "PBXFileReference";
+		};
+		"674B8709167F6C4300D301FA" = {
+			"fileRef" = "674B8708167F6C4300D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B8765167F6C4400D301FA" = {
+			"fileRef" = "674B8764167F6C4400D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B87E8167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/FontLabel/FontLabel.m";
+			"name" = "FontLabel.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B87F6167F6C4500D301FA" = {
+			"fileRef" = "674B87F5167F6C4500D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B8806167F6C4500D301FA" = {
+			"buildSettings" = {
+				"GCC_SYMBOLS_PRIVATE_EXTERN" = "NO";
+				"GCC_OPTIMIZATION_LEVEL" = "0";
+				"GCC_C_LANGUAGE_STANDARD" = "gnu99";
+				"SDKROOT" = "iphoneos";
+				"ARCHS" = "$(ARCHS_STANDARD_32_BIT)";
+				"GCC_PREPROCESSOR_DEFINITIONS" = (
+					"DEBUG",
+					"COCOS2D_DEBUG=1"
+				);
+				"IPHONEOS_DEPLOYMENT_TARGET" = "6.0";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				"GCC_WARN_UNUSED_VARIABLE" = "YES";
+				"GCC_WARN_ABOUT_RETURN_TYPE" = "YES";
+				"GCC_VERSION" = "com.apple.compilers.llvmgcc42";
+			};
+			"name" = "Debug";
+			"isa" = "XCBuildConfiguration";
+		};
+		"674B873E167F6C4300D301FA" = {
+			"fileRef" = "674B873D167F6C4300D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B868B167F6C4200D301FA" = {
+			"sourceTree" = "<group>";
+			"isa" = "PBXGroup";
+			"children" = (
+				"674B86AA167F6C4200D301FA",
+				"674B8699167F6C4200D301FA",
+				"674B8697167F6C4200D301FA"
+			);
+		};
+		"674B87F9167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "Prefix.pch";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"FD4E5F002B3201300D8F549A" = {
+			"fileEncoding" = "4";
+			"sourceTree" = "<group>";
+			"path" = "blacktocat.png";
+			"lastKnownFileType" = "image.png";
+			"isa" = "PBXFileReference";
+		};
+		"674B8798167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/Support/base64.h";
+			"name" = "base64.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B87F1167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/FontLabel/ZAttributedString.m";
+			"name" = "ZAttributedString.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B86E6167F6C4200D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCAnimation.m";
+			"name" = "CCAnimation.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B875B167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCTMXObjectGroup.m";
+			"name" = "CCTMXObjectGroup.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B86A9167F6C4200D301FA" = {
+			"fileRef" = "674B86A8167F6C4200D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B8757167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCTMXLayer.h";
+			"name" = "CCTMXLayer.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B86CE167F6C4200D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCActionGrid3D.m";
+			"name" = "CCActionGrid3D.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B87B2167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/Support/ZipUtils.h";
+			"name" = "ZipUtils.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B87C7167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocoslive/CLScoreServerPost.m";
+			"name" = "CLScoreServerPost.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B87ED167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/FontLabel/FontManager.h";
+			"name" = "FontManager.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B8794167F6C4400D301FA" = {
+			"fileRef" = "674B8793167F6C4400D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B8766167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCTransitionPageTurn.h";
+			"name" = "CCTransitionPageTurn.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B86BD167F6C4200D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "Resources/iTunesArtwork";
+			"name" = "iTunesArtwork";
+			"lastKnownFileType" = "file";
+			"isa" = "PBXFileReference";
+		};
+		"674B8761167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCTMXXMLParser.m";
+			"name" = "CCTMXXMLParser.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B86E5167F6C4200D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCAnimation.h";
+			"name" = "CCAnimation.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B8784167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/Platforms/iOS/ESRenderer.h";
+			"name" = "ESRenderer.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B87D7167F6C4500D301FA" = {
+			"fileRef" = "674B87D6167F6C4500D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B8697167F6C4200D301FA" = {
+			"sourceTree" = "<group>";
+			"name" = "Products";
+			"isa" = "PBXGroup";
+			"children" = (
+				"674B8696167F6C4200D301FA"
+			);
+		};
+		"674B86BE167F6C4200D301FA" = {
+			"fileRef" = "674B86BD167F6C4200D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B87BE167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/CocosDenshion/CocosDenshion.h";
+			"name" = "CocosDenshion.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B87AD167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/Support/TransformUtils.h";
+			"name" = "TransformUtils.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B87BC167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/CocosDenshion/CDOpenALSupport.m";
+			"name" = "CDOpenALSupport.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B87DD167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/TouchJSON/JSON/CJSONDeserializer.m";
+			"name" = "CJSONDeserializer.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"CAD256305C2701300DA7549A" = {
+			"fileEncoding" = "4";
+			"sourceTree" = "<group>";
+			"path" = "Resources/iphone/foo_2.png";
+			"name" = "foo_2.png";
+			"lastKnownFileType" = "image.png";
+			"isa" = "PBXFileReference";
+		};
+		"674B86DA167F6C4200D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCActionPageTurn3D.m";
+			"name" = "CCActionPageTurn3D.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B872C167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCProgressTimer.h";
+			"name" = "CCProgressTimer.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"06C315102A9001300D82549A" = {
+			"fileEncoding" = "4";
+			"sourceTree" = "<group>";
+			"path" = "GameSeat.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B8695167F6C4200D301FA" = {
+			"dependencies" = (
+				
+			);
+			"productName" = "TApp";
+			"name" = "TApp";
+			"productReference" = "674B8696167F6C4200D301FA";
+			"productType" = "com.apple.product-type.application";
+			"buildRules" = (
+				
+			);
+			"buildConfigurationList" = "674B8808167F6C4500D301FA";
+			"isa" = "PBXNativeTarget";
+			"buildPhases" = (
+				"674B8692167F6C4200D301FA",
+				"674B8693167F6C4200D301FA",
+				"674B8694167F6C4200D301FA"
+			);
+		};
+		"674B8809167F6C4500D301FA" = {
+			"buildSettings" = {
+				"WRAPPER_EXTENSION" = "app";
+				"GCC_THUMB_SUPPORT[arch=armv6]" = "";
+				"GCC_PRECOMPILE_PREFIX_HEADER" = "YES";
+				"INFOPLIST_FILE" = "TApp/Resources/Info.plist";
+				"OTHER_LDFLAGS" = "-lz";
+				"GCC_PREFIX_HEADER" = "TApp/Prefix.pch";
+				"COPY_PHASE_STRIP" = "NO";
+				"PRODUCT_NAME" = "$(TARGET_NAME)";
+				"GCC_DYNAMIC_NO_PIC" = "NO";
+				"ALWAYS_SEARCH_USER_PATHS" = "NO";
+			};
+			"name" = "Debug";
+			"isa" = "XCBuildConfiguration";
+		};
+		"674B87A8167F6C4500D301FA" = {
+			"fileRef" = "674B87A7167F6C4500D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B86E8167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCAnimationCache.h";
+			"name" = "CCAnimationCache.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B87CD167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocoslive/cocoslive.m";
+			"name" = "cocoslive.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B8767167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCTransitionPageTurn.m";
+			"name" = "CCTransitionPageTurn.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"677322B9167F8AF60031088A" = {
+			"fileRef" = "677322B8167F8AF60031088A";
+			"isa" = "PBXBuildFile";
+		};
+		"674B86AF167F6C4200D301FA" = {
+			"fileRef" = "674B86AE167F6C4200D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B868D167F6C4200D301FA" = {
+			"compatibilityVersion" = "Xcode 3.2";
+			"productRefGroup" = "674B8697167F6C4200D301FA";
+			"projectRoot" = "";
+			"mainGroup" = "674B868B167F6C4200D301FA";
+			"attributes" = {
+				"LastUpgradeCheck" = "0450";
+			};
+			"buildConfigurationList" = "674B8690167F6C4200D301FA";
+			"hasScannedForEncodings" = "0";
+			"isa" = "PBXProject";
+			"projectDirPath" = "";
+			"knownRegions" = (
+				"en"
+			);
+			"developmentRegion" = "English";
+			"targets" = (
+				"674B8695167F6C4200D301FA"
+			);
+		};
+		"CA6230805C2701300DA6549A" = {
+			"fileEncoding" = "4";
+			"sourceTree" = "<group>";
+			"path" = "Resources/iphone/foo_1.png";
+			"name" = "foo_1.png";
+			"lastKnownFileType" = "image.png";
+			"isa" = "PBXFileReference";
+		};
+		"674B86C1167F6C4200D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCAction.h";
+			"name" = "CCAction.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B86D4167F6C4200D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCActionInterval.m";
+			"name" = "CCActionInterval.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B8724167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCParticleSystem.m";
+			"name" = "CCParticleSystem.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B869E167F6C4200D301FA" = {
+			"sourceTree" = "SDKROOT";
+			"path" = "System/Library/Frameworks/OpenAL.framework";
+			"name" = "OpenAL.framework";
+			"lastKnownFileType" = "wrapper.framework";
+			"isa" = "PBXFileReference";
+		};
+		"674B86E1167F6C4200D301FA" = {
+			"fileRef" = "674B86E0167F6C4200D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B87F2167F6C4500D301FA" = {
+			"fileRef" = "674B87F1167F6C4500D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B8759167F6C4400D301FA" = {
+			"fileRef" = "674B8758167F6C4400D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B873F167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCSpriteBatchNode.h";
+			"name" = "CCSpriteBatchNode.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B8804167F6C4500D301FA" = {
+			"fileRef" = "674B8803167F6C4500D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B875C167F6C4400D301FA" = {
+			"fileRef" = "674B875B167F6C4400D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B8791167F6C4400D301FA" = {
+			"fileRef" = "674B8790167F6C4400D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B86F2167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCCamera.m";
+			"name" = "CCCamera.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B87F4167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/FontLabel/ZFont.h";
+			"name" = "ZFont.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B86EB167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCAtlasNode.h";
+			"name" = "CCAtlasNode.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B8729167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCParticleSystemQuad.h";
+			"name" = "CCParticleSystemQuad.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B86DE167F6C4200D301FA" = {
+			"fileRef" = "674B86DD167F6C4200D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B86AC167F6C4200D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "Resources/Default.png";
+			"name" = "Default.png";
+			"lastKnownFileType" = "image.png";
+			"isa" = "PBXFileReference";
+		};
+		"674B877A167F6C4400D301FA" = {
+			"fileRef" = "674B8779167F6C4400D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B87D2167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/TouchJSON/CDataScanner.m";
+			"name" = "CDataScanner.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B8747167F6C4400D301FA" = {
+			"fileRef" = "674B8746167F6C4400D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B87EA167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/FontLabel/FontLabelStringDrawing.h";
+			"name" = "FontLabelStringDrawing.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B86CD167F6C4200D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCActionGrid3D.h";
+			"name" = "CCActionGrid3D.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B8700167F6C4300D301FA" = {
+			"fileRef" = "674B86FF167F6C4300D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"F50F41102A9101300D84549A" = {
+			"fileEncoding" = "4";
+			"sourceTree" = "<group>";
+			"path" = "Resources/Untitled.png";
+			"name" = "Untitled.png";
+			"lastKnownFileType" = "image.png";
+			"isa" = "PBXFileReference";
+		};
+		"674B87F5167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/FontLabel/ZFont.m";
+			"name" = "ZFont.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B87E3167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/TouchJSON/JSON/CJSONSerializer.m";
+			"name" = "CJSONSerializer.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B8768167F6C4400D301FA" = {
+			"fileRef" = "674B8767167F6C4400D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B87BB167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/CocosDenshion/CDOpenALSupport.h";
+			"name" = "CDOpenALSupport.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B86B1167F6C4200D301FA" = {
+			"fileRef" = "674B86B0167F6C4200D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B8713167F6C4300D301FA" = {
+			"fileRef" = "674B8712167F6C4300D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B8796167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/Support/base64.c";
+			"name" = "base64.c";
+			"lastKnownFileType" = "sourcecode.c.c";
+			"isa" = "PBXFileReference";
+		};
+		"674B8699167F6C4200D301FA" = {
+			"sourceTree" = "<group>";
+			"name" = "Frameworks";
+			"isa" = "PBXGroup";
+			"children" = (
+				"674B869A167F6C4200D301FA",
+				"674B869C167F6C4200D301FA",
+				"674B869E167F6C4200D301FA",
+				"674B86A0167F6C4200D301FA",
+				"674B86A2167F6C4200D301FA",
+				"674B86A4167F6C4200D301FA",
+				"674B86A6167F6C4200D301FA",
+				"674B86A8167F6C4200D301FA"
+			);
+		};
+		"674B875D167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCTMXTiledMap.h";
+			"name" = "CCTMXTiledMap.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B87E0167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/TouchJSON/JSON/CJSONScanner.m";
+			"name" = "CJSONScanner.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B86D7167F6C4200D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCActionManager.m";
+			"name" = "CCActionManager.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B86C5167F6C4200D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCActionCamera.m";
+			"name" = "CCActionCamera.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B878A167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/Platforms/Mac/CCDirectorMac.m";
+			"name" = "CCDirectorMac.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B878C167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/Platforms/Mac/CCEventDispatcher.h";
+			"name" = "CCEventDispatcher.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B877B167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/Platforms/iOS/CCTouchHandler.h";
+			"name" = "CCTouchHandler.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B877E167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/Platforms/iOS/EAGLView.h";
+			"name" = "EAGLView.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B8808167F6C4500D301FA" = {
+			"defaultConfigurationName" = "Release";
+			"buildConfigurations" = (
+				"674B8809167F6C4500D301FA",
+				"674B880A167F6C4500D301FA"
+			);
+			"defaultConfigurationIsVisible" = "0";
+			"isa" = "XCConfigurationList";
+		};
+		"674B87B9167F6C4500D301FA" = {
+			"fileRef" = "674B87B8167F6C4500D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B8731167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCRenderTexture.m";
+			"name" = "CCRenderTexture.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B86FA167F6C4300D301FA" = {
+			"fileRef" = "674B86F9167F6C4300D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B8763167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCTransition.h";
+			"name" = "CCTransition.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B86F8167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCDirector.h";
+			"name" = "CCDirector.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B87A0167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/Support/CCProfiling.h";
+			"name" = "CCProfiling.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B869A167F6C4200D301FA" = {
+			"sourceTree" = "SDKROOT";
+			"path" = "System/Library/Frameworks/QuartzCore.framework";
+			"name" = "QuartzCore.framework";
+			"lastKnownFileType" = "wrapper.framework";
+			"isa" = "PBXFileReference";
+		};
+		"4406E2705C3501300DA8549A" = {
+			"sourceTree" = "<group>";
+			"name" = "iphone";
+			"isa" = "PBXGroup";
+			"children" = (
+				"F3B51F505CF601300DB9549A",
+				"F45AA4005CF601300DBA549A"
+			);
+		};
+		"674B86D3167F6C4200D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCActionInterval.h";
+			"name" = "CCActionInterval.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B876E167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/cocos2d.m";
+			"name" = "cocos2d.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B8795167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"name" = "Support";
+			"isa" = "PBXGroup";
+			"children" = (
+				"674B8796167F6C4400D301FA",
+				"674B8798167F6C4400D301FA",
+				"674B8799167F6C4400D301FA",
+				"674B879A167F6C4400D301FA",
+				"674B879C167F6C4400D301FA",
+				"674B879D167F6C4400D301FA",
+				"674B879E167F6C4400D301FA",
+				"674B87A0167F6C4400D301FA",
+				"674B87A1167F6C4400D301FA",
+				"674B87A3167F6C4400D301FA",
+				"674B87A5167F6C4500D301FA",
+				"674B87A6167F6C4500D301FA",
+				"674B87A7167F6C4500D301FA",
+				"674B87A9167F6C4500D301FA",
+				"674B87AA167F6C4500D301FA",
+				"674B87AB167F6C4500D301FA",
+				"674B87AD167F6C4500D301FA",
+				"674B87AE167F6C4500D301FA",
+				"674B87B0167F6C4500D301FA",
+				"674B87B1167F6C4500D301FA",
+				"674B87B2167F6C4500D301FA",
+				"674B87B3167F6C4500D301FA"
+			);
+		};
+		"674B87F8167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"name" = "Supporting Files";
+			"isa" = "PBXGroup";
+			"children" = (
+				"674B87F9167F6C4500D301FA",
+				"674B87FA167F6C4500D301FA"
+			);
+		};
+		"674B879B167F6C4400D301FA" = {
+			"fileRef" = "674B879A167F6C4400D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B86EE167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCBlockSupport.h";
+			"name" = "CCBlockSupport.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B86FF167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCGrabber.m";
+			"name" = "CCGrabber.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B8733167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCRibbon.h";
+			"name" = "CCRibbon.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B86CC167F6C4200D301FA" = {
+			"fileRef" = "674B86CB167F6C4200D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B86AE167F6C4200D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "Resources/fps_images.png";
+			"name" = "fps_images.png";
+			"lastKnownFileType" = "image.png";
+			"isa" = "PBXFileReference";
+		};
+		"674B8779167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/Platforms/iOS/CCTouchDispatcher.m";
+			"name" = "CCTouchDispatcher.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B871C167F6C4300D301FA" = {
+			"fileRef" = "674B871B167F6C4300D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B86CB167F6C4200D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCActionGrid.m";
+			"name" = "CCActionGrid.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B8721167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCParticleExamples.m";
+			"name" = "CCParticleExamples.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B8781167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/Platforms/iOS/ES1Renderer.h";
+			"name" = "ES1Renderer.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B86BF167F6C4200D301FA" = {
+			"sourceTree" = "<group>";
+			"name" = "libs";
+			"isa" = "PBXGroup";
+			"children" = (
+				"674B87B5167F6C4500D301FA",
+				"674B87C4167F6C4500D301FA",
+				"674B87CF167F6C4500D301FA",
+				"674B87F7167F6C4500D301FA",
+				"674B86C0167F6C4200D301FA",
+				"674B87B6167F6C4500D301FA",
+				"674B87C5167F6C4500D301FA",
+				"674B87D0167F6C4500D301FA",
+				"674B87E6167F6C4500D301FA"
+			);
+		};
+		"674B8703167F6C4300D301FA" = {
+			"fileRef" = "674B8702167F6C4300D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B8750167F6C4400D301FA" = {
+			"fileRef" = "674B874F167F6C4400D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B8799167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/Support/CCArray.h";
+			"name" = "CCArray.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B87E4167F6C4500D301FA" = {
+			"fileRef" = "674B87E3167F6C4500D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B874C167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCTextureAtlas.m";
+			"name" = "CCTextureAtlas.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B86B5167F6C4200D301FA" = {
+			"fileRef" = "674B86B4167F6C4200D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B8726167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCParticleSystemPoint.h";
+			"name" = "CCParticleSystemPoint.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B8789167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/Platforms/Mac/CCDirectorMac.h";
+			"name" = "CCDirectorMac.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B86F6167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCConfiguration.m";
+			"name" = "CCConfiguration.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B8725167F6C4300D301FA" = {
+			"fileRef" = "674B8724167F6C4300D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B87AC167F6C4500D301FA" = {
+			"fileRef" = "674B87AB167F6C4500D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B8751167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCTexturePVR.h";
+			"name" = "CCTexturePVR.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B8712167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCMenu.m";
+			"name" = "CCMenu.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B8748167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCTexture2D.h";
+			"name" = "CCTexture2D.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B87C6167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocoslive/CLScoreServerPost.h";
+			"name" = "CLScoreServerPost.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B876D167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/cocos2d.h";
+			"name" = "cocos2d.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B86DB167F6C4200D301FA" = {
+			"fileRef" = "674B86DA167F6C4200D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B869D167F6C4200D301FA" = {
+			"fileRef" = "674B869C167F6C4200D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"677322B8167F8AF60031088A" = {
+			"fileEncoding" = "4";
+			"sourceTree" = "<group>";
+			"path" = "level1.txt";
+			"lastKnownFileType" = "text";
+			"isa" = "PBXFileReference";
+		};
+		"674B8758167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCTMXLayer.m";
+			"name" = "CCTMXLayer.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B87A3167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/Support/ccUtils.c";
+			"name" = "ccUtils.c";
+			"lastKnownFileType" = "sourcecode.c.c";
+			"isa" = "PBXFileReference";
+		};
+		"674B871F167F6C4300D301FA" = {
+			"fileRef" = "674B871E167F6C4300D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B87DE167F6C4500D301FA" = {
+			"fileRef" = "674B87DD167F6C4500D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B87E1167F6C4500D301FA" = {
+			"fileRef" = "674B87E0167F6C4500D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B873A167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCScheduler.m";
+			"name" = "CCScheduler.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B8746167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCSpriteFrameCache.m";
+			"name" = "CCSpriteFrameCache.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B877C167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/Platforms/iOS/CCTouchHandler.m";
+			"name" = "CCTouchHandler.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B8705167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCLabelAtlas.m";
+			"name" = "CCLabelAtlas.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B872B167F6C4300D301FA" = {
+			"fileRef" = "674B872A167F6C4300D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B875E167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCTMXTiledMap.m";
+			"name" = "CCTMXTiledMap.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B87CC167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocoslive/cocoslive.h";
+			"name" = "cocoslive.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B8734167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCRibbon.m";
+			"name" = "CCRibbon.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B8753167F6C4400D301FA" = {
+			"fileRef" = "674B8752167F6C4400D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B869C167F6C4200D301FA" = {
+			"sourceTree" = "SDKROOT";
+			"path" = "System/Library/Frameworks/OpenGLES.framework";
+			"name" = "OpenGLES.framework";
+			"lastKnownFileType" = "wrapper.framework";
+			"isa" = "PBXFileReference";
+		};
+		"674B86B0167F6C4200D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "Resources/Icon-72.png";
+			"name" = "Icon-72.png";
+			"lastKnownFileType" = "image.png";
+			"isa" = "PBXFileReference";
+		};
+		"674B86A2167F6C4200D301FA" = {
+			"sourceTree" = "SDKROOT";
+			"path" = "System/Library/Frameworks/AVFoundation.framework";
+			"name" = "AVFoundation.framework";
+			"lastKnownFileType" = "wrapper.framework";
+			"isa" = "PBXFileReference";
+		};
+		"674B8732167F6C4300D301FA" = {
+			"fileRef" = "674B8731167F6C4300D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B874F167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCTextureCache.m";
+			"name" = "CCTextureCache.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B871A167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCNode.h";
+			"name" = "CCNode.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
 		};
 		"674B8692167F6C4200D301FA" = {
-			"isa" = "PBXSourcesBuildPhase";
-			"runOnlyForDeploymentPostprocessing" = "0";
 			"files" = (
 				"674B86C3167F6C4200D301FA",
 				"674B86C6167F6C4200D301FA",
@@ -2162,484 +1676,650 @@
 				"674B8804167F6C4500D301FA"
 			);
 			"buildActionMask" = "2147483647";
+			"isa" = "PBXSourcesBuildPhase";
+			"runOnlyForDeploymentPostprocessing" = "0";
 		};
-		"674B86C5167F6C4200D301FA" = {
-			"path" = "libs/cocos2d/CCActionCamera.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCActionCamera.m";
-		};
-		"674B87E3167F6C4500D301FA" = {
-			"path" = "libs/TouchJSON/JSON/CJSONSerializer.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CJSONSerializer.m";
-		};
-		"674B86E1167F6C4200D301FA" = {
+		"674B87C8167F6C4500D301FA" = {
+			"fileRef" = "674B87C7167F6C4500D301FA";
 			"isa" = "PBXBuildFile";
-			"fileRef" = "674B86E0167F6C4200D301FA";
 		};
-		"674B8708167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCLabelBMFont.m";
-			"isa" = "PBXFileReference";
+		"674B870E167F6C4300D301FA" = {
 			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCLayer.m";
+			"name" = "CCLayer.m";
 			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCLabelBMFont.m";
-		};
-		"674B879D167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/Support/CCFileUtils.h";
 			"isa" = "PBXFileReference";
+		};
+		"674B8696167F6C4200D301FA" = {
+			"sourceTree" = "BUILT_PRODUCTS_DIR";
+			"path" = "TApp.app";
+			"explicitFileType" = "wrapper.application";
+			"isa" = "PBXFileReference";
+			"includeInIndex" = "0";
+		};
+		"674B87FF167F6C4500D301FA" = {
 			"sourceTree" = "<group>";
+			"path" = "RootViewController.h";
 			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCFileUtils.h";
-		};
-		"674B8759167F6C4400D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B8758167F6C4400D301FA";
-		};
-		"674B872D167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCProgressTimer.m";
 			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCProgressTimer.m";
 		};
-		"674B870B167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCLabelTTF.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCLabelTTF.m";
-		};
-		"674B8806167F6C4500D301FA" = {
-			"isa" = "XCBuildConfiguration";
-			"buildSettings" = {
-				"GCC_WARN_ABOUT_RETURN_TYPE" = "YES";
-				"GCC_SYMBOLS_PRIVATE_EXTERN" = "NO";
-				"GCC_PREPROCESSOR_DEFINITIONS" = (
-					"DEBUG",
-					"COCOS2D_DEBUG=1"
-				);
-				"GCC_C_LANGUAGE_STANDARD" = "gnu99";
-				"ARCHS" = "$(ARCHS_STANDARD_32_BIT)";
-				"SDKROOT" = "iphoneos";
-				"IPHONEOS_DEPLOYMENT_TARGET" = "6.0";
-				"GCC_WARN_UNUSED_VARIABLE" = "YES";
-				"GCC_VERSION" = "com.apple.compilers.llvmgcc42";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				"GCC_OPTIMIZATION_LEVEL" = "0";
-			};
-			"name" = "Debug";
-		};
-		"674B87DA167F6C4500D301FA" = {
+		"674B87D3167F6C4500D301FA" = {
+			"fileRef" = "674B87D2167F6C4500D301FA";
 			"isa" = "PBXBuildFile";
-			"fileRef" = "674B87D9167F6C4500D301FA";
 		};
-		"674B86F7167F6C4300D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B86F6167F6C4300D301FA";
-		};
-		"674B87D2167F6C4500D301FA" = {
-			"path" = "libs/TouchJSON/CDataScanner.m";
-			"isa" = "PBXFileReference";
+		"674B8710167F6C4300D301FA" = {
 			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CDataScanner.m";
+			"path" = "libs/cocos2d/ccMacros.h";
+			"name" = "ccMacros.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
 		};
 		"674B87AA167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
 			"path" = "libs/cocos2d/Support/TGAlib.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
 			"name" = "TGAlib.h";
-		};
-		"674B8803167F6C4500D301FA" = {
-			"path" = "HelloWorldLayer.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-		};
-		"674B87FD167F6C4500D301FA" = {
-			"path" = "AppDelegate.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-		};
-		"674B874C167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/CCTextureAtlas.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCTextureAtlas.m";
-		};
-		"674B87CC167F6C4500D301FA" = {
-			"path" = "libs/cocoslive/cocoslive.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
 			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "cocoslive.h";
+			"isa" = "PBXFileReference";
 		};
-		"674B87CE167F6C4500D301FA" = {
+		"674B8760167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCTMXXMLParser.h";
+			"name" = "CCTMXXMLParser.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B878B167F6C4400D301FA" = {
+			"fileRef" = "674B878A167F6C4400D301FA";
 			"isa" = "PBXBuildFile";
-			"fileRef" = "674B87CD167F6C4500D301FA";
 		};
-		"674B8702167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCGrid.m";
-			"isa" = "PBXFileReference";
+		"674B878F167F6C4400D301FA" = {
 			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCGrid.m";
+			"path" = "libs/cocos2d/Platforms/Mac/MacGLView.h";
+			"name" = "MacGLView.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
 		};
-		"677322B8167F8AF60031088A" = {
-			"path" = "level1.txt";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"fileEncoding" = "4";
-			"lastKnownFileType" = "text";
+		"674B87EF167F6C4500D301FA" = {
+			"fileRef" = "674B87EE167F6C4500D301FA";
+			"isa" = "PBXBuildFile";
 		};
 		"674B8786167F6C4400D301FA" = {
-			"isa" = "PBXBuildFile";
 			"fileRef" = "674B8785167F6C4400D301FA";
-		};
-		"674B8729167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCParticleSystemQuad.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCParticleSystemQuad.h";
-		};
-		"674B8752167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/CCTexturePVR.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCTexturePVR.m";
-		};
-		"674B86BB167F6C4200D301FA" = {
 			"isa" = "PBXBuildFile";
-			"fileRef" = "674B86BA167F6C4200D301FA";
-		};
-		"674B86CA167F6C4200D301FA" = {
-			"path" = "libs/cocos2d/CCActionGrid.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCActionGrid.h";
-		};
-		"674B87B4167F6C4500D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B87B3167F6C4500D301FA";
-		};
-		"674B8695167F6C4200D301FA" = {
-			"productName" = "TApp";
-			"productType" = "com.apple.product-type.application";
-			"isa" = "PBXNativeTarget";
-			"buildConfigurationList" = "674B8808167F6C4500D301FA";
-			"dependencies" = (
-				
-			);
-			"productReference" = "674B8696167F6C4200D301FA";
-			"buildPhases" = (
-				"674B8692167F6C4200D301FA",
-				"674B8693167F6C4200D301FA",
-				"674B8694167F6C4200D301FA"
-			);
-			"buildRules" = (
-				
-			);
-			"name" = "TApp";
-		};
-		"674B871D167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCParallaxNode.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCParallaxNode.h";
-		};
-		"674B86C8167F6C4200D301FA" = {
-			"path" = "libs/cocos2d/CCActionEase.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCActionEase.m";
-		};
-		"674B86AD167F6C4200D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B86AC167F6C4200D301FA";
-		};
-		"674B8750167F6C4400D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B874F167F6C4400D301FA";
-		};
-		"674B87D6167F6C4500D301FA" = {
-			"path" = "libs/TouchJSON/Extensions/CDataScanner_Extensions.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CDataScanner_Extensions.m";
-		};
-		"674B87E2167F6C4500D301FA" = {
-			"path" = "libs/TouchJSON/JSON/CJSONSerializer.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CJSONSerializer.h";
-		};
-		"674B8797167F6C4400D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B8796167F6C4400D301FA";
-		};
-		"674B87FE167F6C4500D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B87FD167F6C4500D301FA";
-		};
-		"674B874A167F6C4400D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B8749167F6C4400D301FA";
-		};
-		"674B879A167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/Support/CCArray.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCArray.m";
-		};
-		"674B87AD167F6C4500D301FA" = {
-			"path" = "libs/cocos2d/Support/TransformUtils.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "TransformUtils.h";
-		};
-		"674B86B1167F6C4200D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B86B0167F6C4200D301FA";
-		};
-		"674B871F167F6C4300D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B871E167F6C4300D301FA";
-		};
-		"674B86B8167F6C4200D301FA" = {
-			"path" = "Resources/Icon.png";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "image.png";
-			"name" = "Icon.png";
-		};
-		"674B8808167F6C4500D301FA" = {
-			"defaultConfigurationName" = "Release";
-			"isa" = "XCConfigurationList";
-			"defaultConfigurationIsVisible" = "0";
-			"buildConfigurations" = (
-				"674B8809167F6C4500D301FA",
-				"674B880A167F6C4500D301FA"
-			);
-		};
-		"674B8740167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCSpriteBatchNode.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCSpriteBatchNode.m";
-		};
-		"674B86BC167F6C4200D301FA" = {
-			"path" = "Resources/Info.plist";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "text.plist.xml";
-			"name" = "Info.plist";
-		};
-		"674B8723167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCParticleSystem.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCParticleSystem.h";
-		};
-		"674B869C167F6C4200D301FA" = {
-			"path" = "System/Library/Frameworks/OpenGLES.framework";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "SDKROOT";
-			"lastKnownFileType" = "wrapper.framework";
-			"name" = "OpenGLES.framework";
-		};
-		"674B8778167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/Platforms/iOS/CCTouchDispatcher.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCTouchDispatcher.h";
-		};
-		"674B8701167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCGrid.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCGrid.h";
-		};
-		"674B8784167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/Platforms/iOS/ESRenderer.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "ESRenderer.h";
-		};
-		"674B8774167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/Platforms/iOS/CCDirectorIOS.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCDirectorIOS.h";
-		};
-		"674B8789167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/Platforms/Mac/CCDirectorMac.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCDirectorMac.h";
-		};
-		"674B8715167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCMenuItem.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCMenuItem.m";
-		};
-		"674B8694167F6C4200D301FA" = {
-			"isa" = "PBXResourcesBuildPhase";
-			"runOnlyForDeploymentPostprocessing" = "0";
-			"files" = (
-				"674B86AD167F6C4200D301FA",
-				"674B86AF167F6C4200D301FA",
-				"674B86B1167F6C4200D301FA",
-				"674B86B3167F6C4200D301FA",
-				"674B86B5167F6C4200D301FA",
-				"674B86B7167F6C4200D301FA",
-				"674B86B9167F6C4200D301FA",
-				"674B86BB167F6C4200D301FA",
-				"674B86BE167F6C4200D301FA",
-				"677322B2167F7BE10031088A",
-				"677322B5167F8A3A0031088A",
-				"677322B7167F8A940031088A",
-				"677322B9167F8AF60031088A"
-			);
-			"buildActionMask" = "2147483647";
-		};
-		"674B86EB167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCAtlasNode.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCAtlasNode.h";
-		};
-		"674B8709167F6C4300D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B8708167F6C4300D301FA";
-		};
-		"674B86E8167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCAnimationCache.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCAnimationCache.h";
-		};
-		"674B86CE167F6C4200D301FA" = {
-			"path" = "libs/cocos2d/CCActionGrid3D.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCActionGrid3D.m";
-		};
-		"674B8719167F6C4300D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B8718167F6C4300D301FA";
-		};
-		"674B8714167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCMenuItem.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCMenuItem.h";
-		};
-		"674B8728167F6C4300D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B8727167F6C4300D301FA";
-		};
-		"674B87F0167F6C4500D301FA" = {
-			"path" = "libs/FontLabel/ZAttributedString.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "ZAttributedString.h";
-		};
-		"674B872F167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCProtocols.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCProtocols.h";
-		};
-		"674B8718167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCMotionStreak.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCMotionStreak.m";
-		};
-		"674B8722167F6C4300D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B8721167F6C4300D301FA";
-		};
-		"674B87B5167F6C4500D301FA" = {
-			"path" = "libs/LICENSE_cocos2d.txt";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "text";
-			"name" = "LICENSE_cocos2d.txt";
-		};
-		"674B8790167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/Platforms/Mac/MacGLView.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "MacGLView.m";
-		};
-		"674B8742167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCSpriteFrame.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCSpriteFrame.h";
-		};
-		"674B86F8167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCDirector.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCDirector.h";
-		};
-		"674B8762167F6C4400D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B8761167F6C4400D301FA";
 		};
 		"674B86E0167F6C4200D301FA" = {
+			"sourceTree" = "<group>";
 			"path" = "libs/cocos2d/CCActionTiledGrid.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
 			"name" = "CCActionTiledGrid.m";
-		};
-		"F4F839505C3901300DAE549A" = {
-			"path" = "Resources/iphone/foo_1.png";
+			"lastKnownFileType" = "sourcecode.c.objc";
 			"isa" = "PBXFileReference";
+		};
+		"674B8774167F6C4400D301FA" = {
 			"sourceTree" = "<group>";
-			"fileEncoding" = "4";
+			"path" = "libs/cocos2d/Platforms/iOS/CCDirectorIOS.h";
+			"name" = "CCDirectorIOS.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B8803167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "HelloWorldLayer.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B872D167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCProgressTimer.m";
+			"name" = "CCProgressTimer.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B86C6167F6C4200D301FA" = {
+			"fileRef" = "674B86C5167F6C4200D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B87D6167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/TouchJSON/Extensions/CDataScanner_Extensions.m";
+			"name" = "CDataScanner_Extensions.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B871B167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCNode.m";
+			"name" = "CCNode.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B86A0167F6C4200D301FA" = {
+			"sourceTree" = "SDKROOT";
+			"path" = "System/Library/Frameworks/AudioToolbox.framework";
+			"name" = "AudioToolbox.framework";
+			"lastKnownFileType" = "wrapper.framework";
+			"isa" = "PBXFileReference";
+		};
+		"674B86C8167F6C4200D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCActionEase.m";
+			"name" = "CCActionEase.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B87C1167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/CocosDenshion/SimpleAudioEngine.h";
+			"name" = "SimpleAudioEngine.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B8716167F6C4300D301FA" = {
+			"fileRef" = "674B8715167F6C4300D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B86D1167F6C4200D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCActionInstant.m";
+			"name" = "CCActionInstant.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B8769167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCTransitionRadial.h";
+			"name" = "CCTransitionRadial.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B87A6167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/Support/CGPointExtension.h";
+			"name" = "CGPointExtension.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B87A7167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/Support/CGPointExtension.m";
+			"name" = "CGPointExtension.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B8743167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCSpriteFrame.m";
+			"name" = "CCSpriteFrame.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B8701167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCGrid.h";
+			"name" = "CCGrid.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B8745167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCSpriteFrameCache.h";
+			"name" = "CCSpriteFrameCache.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B878D167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/Platforms/Mac/CCEventDispatcher.m";
+			"name" = "CCEventDispatcher.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B8717167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCMotionStreak.h";
+			"name" = "CCMotionStreak.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B87BD167F6C4500D301FA" = {
+			"fileRef" = "674B87BC167F6C4500D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B86B3167F6C4200D301FA" = {
+			"fileRef" = "674B86B2167F6C4200D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B86A6167F6C4200D301FA" = {
+			"sourceTree" = "SDKROOT";
+			"path" = "System/Library/Frameworks/Foundation.framework";
+			"name" = "Foundation.framework";
+			"lastKnownFileType" = "wrapper.framework";
+			"isa" = "PBXFileReference";
+		};
+		"674B87AE167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/Support/TransformUtils.m";
+			"name" = "TransformUtils.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B8755167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCTileMapAtlas.m";
+			"name" = "CCTileMapAtlas.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B87F7167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/LICENSE_FontLabel.txt";
+			"name" = "LICENSE_FontLabel.txt";
+			"lastKnownFileType" = "text";
+			"isa" = "PBXFileReference";
+		};
+		"674B870C167F6C4300D301FA" = {
+			"fileRef" = "674B870B167F6C4300D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B87C9167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocoslive/CLScoreServerRequest.h";
+			"name" = "CLScoreServerRequest.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B86B2167F6C4200D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "Resources/Icon-Small-50.png";
+			"name" = "Icon-Small-50.png";
 			"lastKnownFileType" = "image.png";
-			"name" = "foo_1.png";
+			"isa" = "PBXFileReference";
+		};
+		"674B86AA167F6C4200D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "TApp";
+			"isa" = "PBXGroup";
+			"children" = (
+				"674B87FC167F6C4500D301FA",
+				"674B87FD167F6C4500D301FA",
+				"674B87FF167F6C4500D301FA",
+				"674B8800167F6C4500D301FA",
+				"674B8802167F6C4500D301FA",
+				"674B8803167F6C4500D301FA",
+				"674B8805167F6C4500D301FA",
+				"674B86AB167F6C4200D301FA",
+				"674B86BF167F6C4200D301FA",
+				"674B87F8167F6C4500D301FA",
+				"06C315102A9001300D82549A",
+				"6E8DAB002A9E01300D86549A"
+			);
+		};
+		"674B8707167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCLabelBMFont.h";
+			"name" = "CCLabelBMFont.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B86F9167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCDirector.m";
+			"name" = "CCDirector.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B87FE167F6C4500D301FA" = {
+			"fileRef" = "674B87FD167F6C4500D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B87FD167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "AppDelegate.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B86BC167F6C4200D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "Resources/Info.plist";
+			"name" = "Info.plist";
+			"lastKnownFileType" = "text.plist.xml";
+			"isa" = "PBXFileReference";
+		};
+		"674B873C167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCSprite.h";
+			"name" = "CCSprite.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B86F4167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/ccConfig.h";
+			"name" = "ccConfig.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B8756167F6C4400D301FA" = {
+			"fileRef" = "674B8755167F6C4400D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B879A167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/Support/CCArray.m";
+			"name" = "CCArray.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B87E6167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"name" = "FontLabel";
+			"isa" = "PBXGroup";
+			"children" = (
+				"674B87E7167F6C4500D301FA",
+				"674B87E8167F6C4500D301FA",
+				"674B87EA167F6C4500D301FA",
+				"674B87EB167F6C4500D301FA",
+				"674B87ED167F6C4500D301FA",
+				"674B87EE167F6C4500D301FA",
+				"674B87F0167F6C4500D301FA",
+				"674B87F1167F6C4500D301FA",
+				"674B87F3167F6C4500D301FA",
+				"674B87F4167F6C4500D301FA",
+				"674B87F5167F6C4500D301FA"
+			);
+		};
+		"674B86ED167F6C4300D301FA" = {
+			"fileRef" = "674B86EC167F6C4300D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B87DF167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/TouchJSON/JSON/CJSONScanner.h";
+			"name" = "CJSONScanner.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B86E7167F6C4200D301FA" = {
+			"fileRef" = "674B86E6167F6C4200D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B870D167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCLayer.h";
+			"name" = "CCLayer.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B8742167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCSpriteFrame.h";
+			"name" = "CCSpriteFrame.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B86A5167F6C4200D301FA" = {
+			"fileRef" = "674B86A4167F6C4200D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B87D4167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"name" = "Extensions";
+			"isa" = "PBXGroup";
+			"children" = (
+				"674B87D5167F6C4500D301FA",
+				"674B87D6167F6C4500D301FA",
+				"674B87D8167F6C4500D301FA",
+				"674B87D9167F6C4500D301FA"
+			);
+		};
+		"674B8771167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/Platforms/CCGL.h";
+			"name" = "CCGL.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B8714167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCMenuItem.h";
+			"name" = "CCMenuItem.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B8785167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/Platforms/iOS/glu.c";
+			"name" = "glu.c";
+			"lastKnownFileType" = "sourcecode.c.c";
+			"isa" = "PBXFileReference";
+		};
+		"674B86E2167F6C4200D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCActionTween.h";
+			"name" = "CCActionTween.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"4E54C8802A9E01300D85549A" = {
+			"fileEncoding" = "4";
+			"sourceTree" = "<group>";
+			"path" = "Resources/votemap.png";
+			"name" = "votemap.png";
+			"lastKnownFileType" = "image.png";
+			"isa" = "PBXFileReference";
+		};
+		"674B8754167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCTileMapAtlas.h";
+			"name" = "CCTileMapAtlas.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B86D5167F6C4200D301FA" = {
+			"fileRef" = "674B86D4167F6C4200D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B87FC167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "AppDelegate.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B86D6167F6C4200D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCActionManager.h";
+			"name" = "CCActionManager.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B8715167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCMenuItem.m";
+			"name" = "CCMenuItem.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B8737167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCScene.m";
+			"name" = "CCScene.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B8718167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCMotionStreak.m";
+			"name" = "CCMotionStreak.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B86FB167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCDrawingPrimitives.h";
+			"name" = "CCDrawingPrimitives.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B86DF167F6C4200D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCActionTiledGrid.h";
+			"name" = "CCActionTiledGrid.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B87C0167F6C4500D301FA" = {
+			"fileRef" = "674B87BF167F6C4500D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"677322B7167F8A940031088A" = {
+			"fileRef" = "677322B6167F8A940031088A";
+			"isa" = "PBXBuildFile";
+		};
+		"674B86D0167F6C4200D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCActionInstant.h";
+			"name" = "CCActionInstant.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B87C5167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"name" = "cocoslive";
+			"isa" = "PBXGroup";
+			"children" = (
+				"674B87C6167F6C4500D301FA",
+				"674B87C7167F6C4500D301FA",
+				"674B87C9167F6C4500D301FA",
+				"674B87CA167F6C4500D301FA",
+				"674B87CC167F6C4500D301FA",
+				"674B87CD167F6C4500D301FA"
+			);
+		};
+		"674B874A167F6C4400D301FA" = {
+			"fileRef" = "674B8749167F6C4400D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B87B8167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/CocosDenshion/CDAudioManager.m";
+			"name" = "CDAudioManager.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B87A5167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/Support/ccUtils.h";
+			"name" = "ccUtils.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B86EF167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCBlockSupport.m";
+			"name" = "CCBlockSupport.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B8783167F6C4400D301FA" = {
+			"fileRef" = "674B8782167F6C4400D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B87AB167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/Support/TGAlib.m";
+			"name" = "TGAlib.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B8772167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/Platforms/CCNS.h";
+			"name" = "CCNS.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B8727167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCParticleSystemPoint.m";
+			"name" = "CCParticleSystemPoint.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B87DA167F6C4500D301FA" = {
+			"fileRef" = "674B87D9167F6C4500D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B875F167F6C4400D301FA" = {
+			"fileRef" = "674B875E167F6C4400D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B874D167F6C4400D301FA" = {
+			"fileRef" = "674B874C167F6C4400D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B86A7167F6C4200D301FA" = {
+			"fileRef" = "674B86A6167F6C4200D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B8704167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCLabelAtlas.h";
+			"name" = "CCLabelAtlas.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B87E2167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/TouchJSON/JSON/CJSONSerializer.h";
+			"name" = "CJSONSerializer.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B876A167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCTransitionRadial.m";
+			"name" = "CCTransitionRadial.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B87FA167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "main.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B87B1167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/Support/utlist.h";
+			"name" = "utlist.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B87B3167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/Support/ZipUtils.m";
+			"name" = "ZipUtils.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B87B6167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"name" = "CocosDenshion";
+			"isa" = "PBXGroup";
+			"children" = (
+				"674B87B7167F6C4500D301FA",
+				"674B87B8167F6C4500D301FA",
+				"674B87BA167F6C4500D301FA",
+				"674B87BB167F6C4500D301FA",
+				"674B87BC167F6C4500D301FA",
+				"674B87BE167F6C4500D301FA",
+				"674B87BF167F6C4500D301FA",
+				"674B87C1167F6C4500D301FA",
+				"674B87C2167F6C4500D301FA"
+			);
 		};
 		"674B87DB167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"name" = "JSON";
 			"isa" = "PBXGroup";
 			"children" = (
 				"674B87DC167F6C4500D301FA",
@@ -2650,257 +2330,560 @@
 				"674B87E3167F6C4500D301FA",
 				"674B87E5167F6C4500D301FA"
 			);
+		};
+		"674B86AB167F6C4200D301FA" = {
 			"sourceTree" = "<group>";
-			"name" = "JSON";
-		};
-		"674B87A7167F6C4500D301FA" = {
-			"path" = "libs/cocos2d/Support/CGPointExtension.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CGPointExtension.m";
-		};
-		"674B873C167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCSprite.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCSprite.h";
-		};
-		"674B86DA167F6C4200D301FA" = {
-			"path" = "libs/cocos2d/CCActionPageTurn3D.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCActionPageTurn3D.m";
-		};
-		"674B8745167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCSpriteFrameCache.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCSpriteFrameCache.h";
-		};
-		"674B875A167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/CCTMXObjectGroup.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCTMXObjectGroup.h";
-		};
-		"674B86BD167F6C4200D301FA" = {
-			"path" = "Resources/iTunesArtwork";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "file";
-			"name" = "iTunesArtwork";
-		};
-		"674B87F2167F6C4500D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B87F1167F6C4500D301FA";
-		};
-		"674B87B9167F6C4500D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B87B8167F6C4500D301FA";
-		};
-		"674B8732167F6C4300D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B8731167F6C4300D301FA";
-		};
-		"674B8795167F6C4400D301FA" = {
+			"name" = "Resources";
 			"isa" = "PBXGroup";
 			"children" = (
-				"674B8796167F6C4400D301FA",
-				"674B8798167F6C4400D301FA",
-				"674B8799167F6C4400D301FA",
-				"674B879A167F6C4400D301FA",
-				"674B879C167F6C4400D301FA",
-				"674B879D167F6C4400D301FA",
-				"674B879E167F6C4400D301FA",
-				"674B87A0167F6C4400D301FA",
-				"674B87A1167F6C4400D301FA",
-				"674B87A3167F6C4400D301FA",
-				"674B87A5167F6C4500D301FA",
-				"674B87A6167F6C4500D301FA",
-				"674B87A7167F6C4500D301FA",
-				"674B87A9167F6C4500D301FA",
-				"674B87AA167F6C4500D301FA",
-				"674B87AB167F6C4500D301FA",
-				"674B87AD167F6C4500D301FA",
-				"674B87AE167F6C4500D301FA",
-				"674B87B0167F6C4500D301FA",
-				"674B87B1167F6C4500D301FA",
-				"674B87B2167F6C4500D301FA",
-				"674B87B3167F6C4500D301FA"
+				"677322B8167F8AF60031088A",
+				"677322B6167F8A940031088A",
+				"677322B4167F8A3A0031088A",
+				"677322B1167F7BE10031088A",
+				"674B86AC167F6C4200D301FA",
+				"674B86AE167F6C4200D301FA",
+				"674B86B0167F6C4200D301FA",
+				"674B86B2167F6C4200D301FA",
+				"674B86B4167F6C4200D301FA",
+				"674B86B6167F6C4200D301FA",
+				"674B86B8167F6C4200D301FA",
+				"674B86BA167F6C4200D301FA",
+				"674B86BC167F6C4200D301FA",
+				"674B86BD167F6C4200D301FA",
+				"F50F41102A9101300D84549A",
+				"4E54C8802A9E01300D85549A",
+				"FD4E5F002B3201300D8F549A",
+				"3DDE04C05C2701300DA4549A",
+				"CA6230805C2701300DA6549A",
+				"CAD256305C2701300DA7549A",
+				"4406E2705C3501300DA8549A"
 			);
+		};
+		"674B86FC167F6C4300D301FA" = {
 			"sourceTree" = "<group>";
-			"name" = "Support";
-		};
-		"674B86ED167F6C4300D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B86EC167F6C4300D301FA";
-		};
-		"674B873E167F6C4300D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B873D167F6C4300D301FA";
-		};
-		"674B87E9167F6C4500D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B87E8167F6C4500D301FA";
-		};
-		"674B876E167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/cocos2d.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCDrawingPrimitives.m";
+			"name" = "CCDrawingPrimitives.m";
 			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "cocos2d.m";
-		};
-		"674B86D9167F6C4200D301FA" = {
-			"path" = "libs/cocos2d/CCActionPageTurn3D.h";
 			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCActionPageTurn3D.h";
 		};
-		"674B86C6167F6C4200D301FA" = {
+		"674B870B167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCLabelTTF.m";
+			"name" = "CCLabelTTF.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B86F3167F6C4300D301FA" = {
+			"fileRef" = "674B86F2167F6C4300D301FA";
 			"isa" = "PBXBuildFile";
-			"fileRef" = "674B86C5167F6C4200D301FA";
+		};
+		"674B86BA167F6C4200D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "Resources/Icon@2x.png";
+			"name" = "Icon@2x.png";
+			"lastKnownFileType" = "image.png";
+			"isa" = "PBXFileReference";
+		};
+		"674B87A2167F6C4400D301FA" = {
+			"fileRef" = "674B87A1167F6C4400D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B8770167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"name" = "Platforms";
+			"isa" = "PBXGroup";
+			"children" = (
+				"674B8771167F6C4400D301FA",
+				"674B8772167F6C4400D301FA",
+				"674B8773167F6C4400D301FA",
+				"674B8788167F6C4400D301FA"
+			);
+		};
+		"674B86AD167F6C4200D301FA" = {
+			"fileRef" = "674B86AC167F6C4200D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B877D167F6C4400D301FA" = {
+			"fileRef" = "674B877C167F6C4400D301FA";
+			"isa" = "PBXBuildFile";
 		};
 		"674B86C4167F6C4200D301FA" = {
+			"sourceTree" = "<group>";
 			"path" = "libs/cocos2d/CCActionCamera.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
 			"name" = "CCActionCamera.h";
-		};
-		"674B86AF167F6C4200D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B86AE167F6C4200D301FA";
-		};
-		"674B87C3167F6C4500D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B87C2167F6C4500D301FA";
-		};
-		"674B870D167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCLayer.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
 			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCLayer.h";
-		};
-		"674B8777167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/Platforms/iOS/CCTouchDelegateProtocol.h";
 			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCTouchDelegateProtocol.h";
 		};
-		"674B86DE167F6C4200D301FA" = {
+		"674B8780167F6C4400D301FA" = {
+			"fileRef" = "674B877F167F6C4400D301FA";
 			"isa" = "PBXBuildFile";
-			"fileRef" = "674B86DD167F6C4200D301FA";
 		};
-		"674B87BF167F6C4500D301FA" = {
-			"path" = "libs/CocosDenshion/CocosDenshion.m";
-			"isa" = "PBXFileReference";
+		"674B87D0167F6C4500D301FA" = {
 			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CocosDenshion.m";
-		};
-		"674B86F9167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCDirector.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCDirector.m";
-		};
-		"674B872B167F6C4300D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B872A167F6C4300D301FA";
-		};
-		"674B87F9167F6C4500D301FA" = {
-			"path" = "Prefix.pch";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-		};
-		"58F550705C3C01300DB0549A" = {
-			"path" = "Resources/iphone/bar_1.png";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"fileEncoding" = "4";
-			"name" = "bar_1.png";
-			"lastKnownFileType" = "image.png";
-		};
-		"674B87AF167F6C4500D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B87AE167F6C4500D301FA";
-		};
-		"674B86D0167F6C4200D301FA" = {
-			"path" = "libs/cocos2d/CCActionInstant.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCActionInstant.h";
-		};
-		"674B87FB167F6C4500D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B87FA167F6C4500D301FA";
-		};
-		"674B86D7167F6C4200D301FA" = {
-			"path" = "libs/cocos2d/CCActionManager.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCActionManager.m";
-		};
-		"674B8744167F6C4300D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B8743167F6C4300D301FA";
-		};
-		"674B8743167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCSpriteFrame.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCSpriteFrame.m";
-		};
-		"674B86DB167F6C4200D301FA" = {
-			"isa" = "PBXBuildFile";
-			"fileRef" = "674B86DA167F6C4200D301FA";
-		};
-		"674B8782167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/Platforms/iOS/ES1Renderer.m";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "ES1Renderer.m";
-		};
-		"674B8748167F6C4400D301FA" = {
-			"path" = "libs/cocos2d/CCTexture2D.h";
-			"isa" = "PBXFileReference";
-			"sourceTree" = "<group>";
-			"lastKnownFileType" = "sourcecode.c.h";
-			"name" = "CCTexture2D.h";
-		};
-		"674B868B167F6C4200D301FA" = {
+			"name" = "TouchJSON";
 			"isa" = "PBXGroup";
 			"children" = (
-				"674B86AA167F6C4200D301FA",
-				"674B8699167F6C4200D301FA",
-				"674B8697167F6C4200D301FA"
+				"674B87D1167F6C4500D301FA",
+				"674B87D2167F6C4500D301FA",
+				"674B87D4167F6C4500D301FA",
+				"674B87DB167F6C4500D301FA"
 			);
-			"sourceTree" = "<group>";
 		};
-		"674B86FA167F6C4300D301FA" = {
+		"674B86CF167F6C4200D301FA" = {
+			"fileRef" = "674B86CE167F6C4200D301FA";
 			"isa" = "PBXBuildFile";
-			"fileRef" = "674B86F9167F6C4300D301FA";
 		};
-		"674B8721167F6C4300D301FA" = {
-			"path" = "libs/cocos2d/CCParticleExamples.m";
-			"isa" = "PBXFileReference";
+		"674B8723167F6C4300D301FA" = {
 			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCParticleSystem.h";
+			"name" = "CCParticleSystem.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B87E9167F6C4500D301FA" = {
+			"fileRef" = "674B87E8167F6C4500D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B8805167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "GameConfig.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B86D8167F6C4200D301FA" = {
+			"fileRef" = "674B86D7167F6C4200D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B876F167F6C4400D301FA" = {
+			"fileRef" = "674B876E167F6C4400D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B87CF167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/LICENSE_TouchJSON.txt";
+			"name" = "LICENSE_TouchJSON.txt";
+			"lastKnownFileType" = "text";
+			"isa" = "PBXFileReference";
+		};
+		"674B8706167F6C4300D301FA" = {
+			"fileRef" = "674B8705167F6C4300D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B872F167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCProtocols.h";
+			"name" = "CCProtocols.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B876B167F6C4400D301FA" = {
+			"fileRef" = "674B876A167F6C4400D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B874E167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCTextureCache.h";
+			"name" = "CCTextureCache.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B8793167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/Platforms/Mac/MacWindow.m";
+			"name" = "MacWindow.m";
 			"lastKnownFileType" = "sourcecode.c.objc";
-			"name" = "CCParticleExamples.m";
+			"isa" = "PBXFileReference";
+		};
+		"674B880A167F6C4500D301FA" = {
+			"buildSettings" = {
+				"WRAPPER_EXTENSION" = "app";
+				"GCC_THUMB_SUPPORT[arch=armv6]" = "";
+				"GCC_PRECOMPILE_PREFIX_HEADER" = "YES";
+				"INFOPLIST_FILE" = "TApp/Resources/Info.plist";
+				"OTHER_LDFLAGS" = "-lz";
+				"VALIDATE_PRODUCT" = "YES";
+				"GCC_PREFIX_HEADER" = "TApp/Prefix.pch";
+				"COPY_PHASE_STRIP" = "YES";
+				"ALWAYS_SEARCH_USER_PATHS" = "NO";
+				"PRODUCT_NAME" = "$(TARGET_NAME)";
+			};
+			"name" = "Release";
+			"isa" = "XCBuildConfiguration";
+		};
+		"674B86B6167F6C4200D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "Resources/Icon-Small@2x.png";
+			"name" = "Icon-Small@2x.png";
+			"lastKnownFileType" = "image.png";
+			"isa" = "PBXFileReference";
+		};
+		"674B86B9167F6C4200D301FA" = {
+			"fileRef" = "674B86B8167F6C4200D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B87F0167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/FontLabel/ZAttributedString.h";
+			"name" = "ZAttributedString.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B87C4167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/LICENSE_CocosDenshion.txt";
+			"name" = "LICENSE_CocosDenshion.txt";
+			"lastKnownFileType" = "text";
+			"isa" = "PBXFileReference";
+		};
+		"674B8762167F6C4400D301FA" = {
+			"fileRef" = "674B8761167F6C4400D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B87D8167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/TouchJSON/Extensions/NSDictionary_JSONExtensions.h";
+			"name" = "NSDictionary_JSONExtensions.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B87C3167F6C4500D301FA" = {
+			"fileRef" = "674B87C2167F6C4500D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B869B167F6C4200D301FA" = {
+			"fileRef" = "674B869A167F6C4200D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B8722167F6C4300D301FA" = {
+			"fileRef" = "674B8721167F6C4300D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B87FB167F6C4500D301FA" = {
+			"fileRef" = "674B87FA167F6C4500D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B86C2167F6C4200D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCAction.m";
+			"name" = "CCAction.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B87EB167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/FontLabel/FontLabelStringDrawing.m";
+			"name" = "FontLabelStringDrawing.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B86B4167F6C4200D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "Resources/Icon-Small.png";
+			"name" = "Icon-Small.png";
+			"lastKnownFileType" = "image.png";
+			"isa" = "PBXFileReference";
+		};
+		"674B8782167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/Platforms/iOS/ES1Renderer.m";
+			"name" = "ES1Renderer.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B872E167F6C4300D301FA" = {
+			"fileRef" = "674B872D167F6C4300D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"F3B51F505CF601300DB9549A" = {
+			"fileEncoding" = "4";
+			"sourceTree" = "<group>";
+			"path" = "Resources/iphone/bar.png";
+			"name" = "bar.png";
+			"lastKnownFileType" = "image.png";
+			"isa" = "PBXFileReference";
+		};
+		"674B8738167F6C4300D301FA" = {
+			"fileRef" = "674B8737167F6C4300D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B8807167F6C4500D301FA" = {
+			"buildSettings" = {
+				"OTHER_CFLAGS" = "-DNS_BLOCK_ASSERTIONS=1";
+				"GCC_C_LANGUAGE_STANDARD" = "gnu99";
+				"SDKROOT" = "iphoneos";
+				"ARCHS" = "$(ARCHS_STANDARD_32_BIT)";
+				"GCC_PREPROCESSOR_DEFINITIONS" = "NDEBUG";
+				"IPHONEOS_DEPLOYMENT_TARGET" = "6.0";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				"GCC_WARN_UNUSED_VARIABLE" = "YES";
+				"GCC_WARN_ABOUT_RETURN_TYPE" = "YES";
+				"GCC_VERSION" = "com.apple.compilers.llvmgcc42";
+			};
+			"name" = "Release";
+			"isa" = "XCBuildConfiguration";
+		};
+		"674B87CB167F6C4500D301FA" = {
+			"fileRef" = "674B87CA167F6C4500D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B8787167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/Platforms/iOS/glu.h";
+			"name" = "glu.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B86D2167F6C4200D301FA" = {
+			"fileRef" = "674B86D1167F6C4200D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B87EC167F6C4500D301FA" = {
+			"fileRef" = "674B87EB167F6C4500D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B8740167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCSpriteBatchNode.m";
+			"name" = "CCSpriteBatchNode.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B86F0167F6C4300D301FA" = {
+			"fileRef" = "674B86EF167F6C4300D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B8800167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "RootViewController.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B869F167F6C4200D301FA" = {
+			"fileRef" = "674B869E167F6C4200D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B87D1167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/TouchJSON/CDataScanner.h";
+			"name" = "CDataScanner.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B86D9167F6C4200D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCActionPageTurn3D.h";
+			"name" = "CCActionPageTurn3D.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B86B7167F6C4200D301FA" = {
+			"fileRef" = "674B86B6167F6C4200D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"677322B4167F8A3A0031088A" = {
+			"fileEncoding" = "4";
+			"sourceTree" = "<group>";
+			"path" = "fof-ipad.fnt";
+			"lastKnownFileType" = "text";
+			"isa" = "PBXFileReference";
+		};
+		"674B87C2167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/CocosDenshion/SimpleAudioEngine.m";
+			"name" = "SimpleAudioEngine.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B8778167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/Platforms/iOS/CCTouchDispatcher.h";
+			"name" = "CCTouchDispatcher.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B8775167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/Platforms/iOS/CCDirectorIOS.m";
+			"name" = "CCDirectorIOS.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B87BF167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/CocosDenshion/CocosDenshion.m";
+			"name" = "CocosDenshion.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B873B167F6C4300D301FA" = {
+			"fileRef" = "674B873A167F6C4300D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B87B4167F6C4500D301FA" = {
+			"fileRef" = "674B87B3167F6C4500D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"677322B1167F7BE10031088A" = {
+			"sourceTree" = "<group>";
+			"path" = "bounce.mp3";
+			"lastKnownFileType" = "audio.mp3";
+			"isa" = "PBXFileReference";
+		};
+		"674B871D167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCParallaxNode.h";
+			"name" = "CCParallaxNode.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B86C7167F6C4200D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCActionEase.h";
+			"name" = "CCActionEase.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B870F167F6C4300D301FA" = {
+			"fileRef" = "674B870E167F6C4300D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B87CE167F6C4500D301FA" = {
+			"fileRef" = "674B87CD167F6C4500D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B87E7167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/FontLabel/FontLabel.h";
+			"name" = "FontLabel.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"F45AA4005CF601300DBA549A" = {
+			"fileEncoding" = "4";
+			"path" = "Resources/iphone/bar_1.png";
+			"sourceTree" = "<group>";
+			"name" = "bar_1.png";
+			"lastKnownFileType" = "image.png";
+			"isa" = "PBXFileReference";
+		};
+		"674B870A167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCLabelTTF.h";
+			"name" = "CCLabelTTF.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B871E167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCParallaxNode.m";
+			"name" = "CCParallaxNode.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B879D167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/Support/CCFileUtils.h";
+			"name" = "CCFileUtils.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B87AF167F6C4500D301FA" = {
+			"fileRef" = "674B87AE167F6C4500D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B879C167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/Support/ccCArray.h";
+			"name" = "ccCArray.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B8702167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCGrid.m";
+			"name" = "CCGrid.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B8749167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCTexture2D.m";
+			"name" = "CCTexture2D.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B87CA167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocoslive/CLScoreServerRequest.m";
+			"name" = "CLScoreServerRequest.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"677322B6167F8A940031088A" = {
+			"sourceTree" = "<group>";
+			"path" = "bingo_bg-hd.jpg";
+			"lastKnownFileType" = "image.jpeg";
+			"isa" = "PBXFileReference";
+		};
+		"677322B2167F7BE10031088A" = {
+			"fileRef" = "677322B1167F7BE10031088A";
+			"isa" = "PBXBuildFile";
+		};
+		"674B876C167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/ccTypes.h";
+			"name" = "ccTypes.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B87D9167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/TouchJSON/Extensions/NSDictionary_JSONExtensions.m";
+			"name" = "NSDictionary_JSONExtensions.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B86A3167F6C4200D301FA" = {
+			"fileRef" = "674B86A2167F6C4200D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B879F167F6C4400D301FA" = {
+			"fileRef" = "674B879E167F6C4400D301FA";
+			"isa" = "PBXBuildFile";
+		};
+		"674B86A8167F6C4200D301FA" = {
+			"sourceTree" = "SDKROOT";
+			"path" = "System/Library/Frameworks/CoreGraphics.framework";
+			"name" = "CoreGraphics.framework";
+			"lastKnownFileType" = "wrapper.framework";
+			"isa" = "PBXFileReference";
+		};
+		"674B877F167F6C4400D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/Platforms/iOS/EAGLView.m";
+			"name" = "EAGLView.m";
+			"lastKnownFileType" = "sourcecode.c.objc";
+			"isa" = "PBXFileReference";
+		};
+		"674B87F3167F6C4500D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/FontLabel/ZAttributedStringPrivate.h";
+			"name" = "ZAttributedStringPrivate.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
+		};
+		"674B8739167F6C4300D301FA" = {
+			"sourceTree" = "<group>";
+			"path" = "libs/cocos2d/CCScheduler.h";
+			"name" = "CCScheduler.h";
+			"lastKnownFileType" = "sourcecode.c.h";
+			"isa" = "PBXFileReference";
 		};
 	};
+	"archiveVersion" = "1";
+	"classes" = {
+		
+	};
+	"rootObject" = "674B868D167F6C4200D301FA";
+	"objectVersion" = "46";
 }
